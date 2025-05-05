@@ -1,0 +1,1145 @@
+2025-04-13 14:08:49,243 - ERROR - Key error while buying share :'Nurenburg FINANCE'
+2025-04-14 09:49:05,636 - ERROR - Key error while buying share :'Olson MISC'
+2025-04-14 10:02:18,136 - ERROR - Key error while buying share :'Ulrick FOOD'
+2025-04-14 10:02:18,346 - ERROR - Key error while buying share :'Ulrick FOOD'
+2025-04-14 10:10:39,267 - ERROR - Key error while buying share :'Mallet TECH'
+2025-04-14 14:52:44,524 - ERROR - Key error while buying share :'Sunny SCRAPYARD'
+2025-04-14 14:54:33,578 - ERROR - Unexpected error while buying a share : list indices must be integers or slices, not str
+2025-04-14 14:58:01,032 - ERROR - Unexpected error while buying a share : list indices must be integers or slices, not str
+2025-04-14 14:58:30,029 - ERROR - Unexpected error while buying a share : list indices must be integers or slices, not str
+2025-04-14 14:59:33,372 - ERROR - Unexpected error while buying a share : list indices must be integers or slices, not str
+2025-04-14 15:02:38,803 - ERROR - Unexpected error while buying a share : name 'company' is not defined
+2025-04-14 15:04:19,351 - ERROR - Unexpected error while buying a share : name 'company' is not defined
+2025-04-14 15:47:58,118 - ERROR - Key error while buying share :'name'
+2025-04-14 15:55:30,619 - ERROR - Key error while buying share :'name'
+2025-04-14 15:57:50,178 - ERROR - Unexpected error while buying a share : name 'company' is not defined
+2025-04-14 15:58:19,625 - ERROR - Key error while buying share :'shares_available'
+2025-04-14 16:00:05,857 - ERROR - Key error while buying share :'name'
+2025-04-14 16:00:50,321 - ERROR - Unexpected error while buying a share : unhashable type: 'dict'
+2025-04-14 16:02:32,233 - ERROR - Unexpected error while buying a share : name 'companies' is not defined
+2025-04-14 16:03:05,770 - ERROR - Unexpected error while buying a share : unhashable type: 'dict'
+2025-04-14 16:05:47,788 - ERROR - Unexpected error while buying a share : unhashable type: 'dict'
+2025-04-14 16:06:27,398 - ERROR - Unexpected error while buying a share : unhashable type: 'dict'
+2025-04-14 16:07:12,067 - ERROR - Unexpected error while buying a share : unhashable type: 'dict'
+2025-04-14 16:10:19,087 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:11:42,467 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:12:35,722 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:13:34,875 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:15:30,960 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:17:04,919 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:17:30,068 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:17:51,136 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:18:47,980 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:19:37,045 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:20:08,305 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:20:57,982 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:21:49,008 - ERROR - Unexpected error while buying a share : cannot access local variable 'share_available' where it is not associated with a value
+2025-04-14 16:29:02,631 - ERROR - Unexpected error while buying a share : 'Stock_Market_Manager' object has no attribute 'player_info'
+2025-04-14 17:00:53,925 - ERROR - Unexpected error while buying a share : name 'datas' is not defined
+2025-04-14 17:02:08,896 - ERROR - Unexpected error while buying a share : name 'datas' is not defined
+2025-04-15 13:48:35,685 - ERROR - Unexpected error while buying a share : cannot access local variable 'company_data' where it is not associated with a value
+2025-04-15 13:57:00,186 - ERROR - Unexpected error while buying a share : cannot access local variable 'company_data' where it is not associated with a value
+2025-04-15 13:57:49,288 - ERROR - Unexpected error while buying a share : cannot access local variable 'company_data' where it is not associated with a value
+2025-04-15 13:58:51,187 - ERROR - Unexpected error while buying a share : cannot access local variable 'company_data' where it is not associated with a value
+2025-04-15 13:58:51,456 - ERROR - Unexpected error while buying a share : cannot access local variable 'company_data' where it is not associated with a value
+2025-04-15 14:00:57,320 - ERROR - Error: No data found for  Magrid FOOD
+2025-04-15 14:01:27,163 - ERROR - Error: No data found for  Zack FINANCE
+2025-04-15 14:02:09,987 - ERROR - Error: No data found for  Zack FINANCE
+2025-04-15 14:02:39,204 - ERROR - Error: No data found for  Magrid MARKET
+2025-04-15 14:26:00,146 - ERROR - Key error while buying share :'Travis OILS'
+2025-04-15 14:27:16,678 - ERROR - Unexpected error while buying a share : 'NoneType' object is not subscriptable
+2025-04-15 14:27:16,686 - ERROR - Unexpected error while buying a share : 'NoneType' object is not subscriptable
+2025-04-15 14:28:12,101 - ERROR - Key error while buying share :'Magrid FOOD'
+2025-04-15 14:47:31,927 - ERROR - Key error while buying share :'Zack FINANCE'
+2025-04-15 14:48:49,767 - ERROR - Key error while buying share :'Zack FINANCE'
+2025-04-15 14:49:43,007 - ERROR - Key error while buying share :'Stephan WELDING'
+2025-04-15 14:50:24,724 - ERROR - Key error while buying share :'Pilger OILS'
+2025-04-15 14:52:32,584 - ERROR - Key error while buying share :'Stephan WELDING'
+2025-04-15 14:53:55,719 - ERROR - Key error while buying share :'Stephan WELDING'
+2025-04-15 14:54:20,190 - ERROR - Key error while buying share :'Stephan WELDING'
+2025-04-16 11:24:05,263 - ERROR - Key error while selling share:'Magrid'
+2025-04-27 12:46:45,230 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:46:50,263 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:46:55,286 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:00,316 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:05,353 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:10,378 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:15,419 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:20,449 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:25,486 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 12:47:30,508 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 13:25:14,233 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 13:25:19,275 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 13:25:23,340 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:16,887 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:16,892 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:16,892 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:16,892 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:16,893 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:21,915 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:21,918 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:21,918 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:21,918 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:21,918 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,948 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,951 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,951 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,952 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,952 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:26,952 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,983 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,985 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,985 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,985 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,986 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:31,986 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,015 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,018 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,018 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,019 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,019 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:37,019 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,725 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,728 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,728 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,728 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,728 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:47,728 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,758 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,761 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,761 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,761 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,761 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,761 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,762 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 14:36:52,762 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-27 15:25:54,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:54,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,775 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:25:59,776 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,801 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:04,802 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,827 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,827 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:09,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,857 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,857 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,857 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,858 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,858 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,858 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,858 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:26:14,858 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,388 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:36,389 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,414 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,414 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,414 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,414 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,414 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,415 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,415 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:41,415 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,445 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,446 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,446 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,446 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,446 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,446 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,447 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:29:46,447 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,142 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:31,143 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:36,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,201 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:41,201 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,224 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,224 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,224 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,225 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,225 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,225 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,225 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:46,225 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,260 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,260 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,260 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,261 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,261 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,261 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,261 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:51,261 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,287 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,287 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,287 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,288 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,288 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,288 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,288 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:30:56,288 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,325 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,326 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:01,326 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,350 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,350 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:06,351 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,378 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:11,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:16,418 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,449 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,449 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:21,450 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:26,485 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,521 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,521 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,521 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,521 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,522 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,522 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,522 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:31,522 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,556 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,556 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:36,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,585 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,585 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,585 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,585 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,586 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,586 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,586 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:41,586 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,617 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,618 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:46,618 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,645 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,645 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:31:51,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,985 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:20,986 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,017 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,017 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,017 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,017 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,018 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,018 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,018 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,018 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:26,018 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,051 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,052 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,052 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:31,052 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,092 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,093 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,093 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,093 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,094 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,094 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,094 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,094 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:36,095 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,146 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,146 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,146 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,147 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,147 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,147 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,147 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,148 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:41,148 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,153 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,153 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:46,154 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,196 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,197 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,197 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,198 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,198 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,199 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,199 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:51,200 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,203 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,204 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,204 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:36:56,204 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,229 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,230 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:01,231 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,256 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,256 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,256 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,256 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,256 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,257 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,257 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,257 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:06,257 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,284 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,285 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:11,285 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,321 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,321 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,321 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:16,322 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,348 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,349 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:21,349 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,379 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:26,380 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,410 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,411 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,411 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:31,411 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,443 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:36,445 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,469 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,469 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,469 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,469 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,469 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:41,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,508 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:46,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:51,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,578 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,578 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:37:56,578 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,599 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:01,600 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,635 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,635 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,635 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,635 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,635 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,636 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,636 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,636 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:06,636 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,666 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,667 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:11,667 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,706 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,706 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,706 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,706 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:16,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,740 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:21,741 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:33,510 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,543 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,543 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:38,543 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,576 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:43,577 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,607 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,608 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,608 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,608 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,608 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,608 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,609 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,609 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:48,609 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,645 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,646 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:53,647 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,682 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,682 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,682 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:38:58,683 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,707 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:03,708 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,736 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,737 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,737 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,737 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,738 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,738 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,738 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,739 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:08,739 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,776 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,776 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,777 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,777 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,777 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,777 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,778 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,778 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:13,778 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,814 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,814 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,814 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:18,815 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,849 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,850 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:23,850 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,885 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:28,886 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,918 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,918 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,919 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,919 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,919 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,919 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,919 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,920 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:33,920 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,956 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,957 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,957 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:38,957 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,989 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,989 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,990 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,990 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,990 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,991 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,991 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,991 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:43,991 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:49,016 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,048 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,048 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,049 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:54,050 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,080 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,080 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,080 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,080 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,081 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,081 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,081 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,081 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:39:59,081 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,114 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,114 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,114 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,114 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,114 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,115 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,115 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,115 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:04,115 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,150 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,150 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,150 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:09,151 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,172 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,173 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,173 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:14,173 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:19,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,236 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:24,237 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,267 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:29,268 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,296 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,296 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,296 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,296 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,296 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,297 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,297 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,297 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:34,297 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,333 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,333 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,333 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:39,334 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,366 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:44,367 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,416 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,416 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:49,417 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,443 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,443 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,444 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:54,445 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,477 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,478 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,478 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:40:59,478 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,507 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,507 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,507 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,508 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,508 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,508 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:04,509 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,538 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:09,539 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,569 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,569 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,569 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,569 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,569 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,570 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,570 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,570 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:14,570 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,610 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,610 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,611 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,611 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,611 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,611 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,612 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,612 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:19,612 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,643 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,643 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,643 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:24,644 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,674 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,674 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,674 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,675 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,675 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,675 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,676 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,676 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:29,677 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,697 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,698 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:34,698 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,728 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,728 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,728 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,728 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,729 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,729 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,729 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,729 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:39,729 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,757 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,757 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,757 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,757 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,758 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,758 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,758 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,758 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:44,758 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,794 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,794 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,794 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,794 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,794 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,795 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,795 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,795 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:49,795 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,833 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,834 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:54,834 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,872 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,872 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,873 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,873 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,874 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,874 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,874 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,874 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:41:59,875 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,905 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,905 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,905 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,905 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,906 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,906 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,906 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,906 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:04,906 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,945 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,945 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,945 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:09,946 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,975 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:14,976 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,014 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,014 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,014 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:20,015 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,045 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:25,046 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,178 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,179 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,180 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,180 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,180 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,180 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,180 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,181 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:31,181 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,207 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:36,208 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,239 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,239 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,239 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:41,240 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,276 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,276 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,276 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:42:46,277 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,438 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,438 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,438 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:50,439 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,470 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,471 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,471 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,471 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:56:55,471 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,511 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,511 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,512 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,512 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,512 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,512 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,513 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,513 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,513 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:00,513 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,528 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,528 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,528 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,528 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,529 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,529 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,529 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,529 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,529 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:05,530 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,555 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,556 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,556 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,556 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:10,557 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,579 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,579 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,579 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,579 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:15,580 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,614 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,615 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,616 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,616 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-27 15:57:20,616 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:12:06,497 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:12:35,440 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:18:44,921 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:21:36,681 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:22:15,301 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-04-28 08:22:36,597 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-28 08:22:55,674 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-28 08:24:29,596 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-28 08:27:40,078 - ERROR - Unexpected error while calculating profit:name 'company' is not defined
+2025-04-28 08:28:00,949 - ERROR - Company 'Brian FINANCE' not found in portfolio or companies data.
+2025-04-28 08:29:16,056 - ERROR - Company 'Brian FINANCE' not found in portfolio or companies data.
+2025-04-28 08:33:16,093 - ERROR - Company 'Brian FINANCE' not found in portfolio or companies data.
+2025-04-28 08:41:11,207 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:10:45,124 - ERROR - Key error while calculating profit for Crowley SCRAPYARD,:'Crowley SCRAPYARD'
+2025-05-02 12:10:50,172 - ERROR - Key error while calculating profit for Crowley SCRAPYARD,:'Crowley SCRAPYARD'
+2025-05-02 12:11:11,353 - ERROR - Key error while calculating profit for Crowley SCRAPYARD,:'Crowley SCRAPYARD'
+2025-05-02 12:11:16,400 - ERROR - Key error while calculating profit for Crowley SCRAPYARD,:'Crowley SCRAPYARD'
+2025-05-02 12:13:22,029 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:13:27,060 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:14:11,828 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:14:16,879 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:14:29,122 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:14:34,170 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:16:05,461 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:16:10,507 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:16:15,542 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:16:31,613 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:16:36,648 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:17:20,554 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:17:25,598 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:17:30,626 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-02 12:18:44,482 - ERROR - Unexpected error while calculating profit:'list' object has no attribute 'items'
+2025-05-02 12:18:49,519 - ERROR - Unexpected error while calculating profit:'list' object has no attribute 'items'
+2025-05-02 12:19:00,472 - ERROR - Unexpected error while calculating profit:'list' object is not callable
+2025-05-02 12:19:05,522 - ERROR - Unexpected error while calculating profit:'list' object is not callable
+2025-05-02 12:19:15,194 - ERROR - Key error while calculating profit for {'Winston OILS': {'shares_available': 9999, 'shares_price': 49.74}},:'shares_price'
+2025-05-02 12:19:20,221 - ERROR - Key error while calculating profit for {'Winston OILS': {'shares_available': 9999, 'shares_price': 48.77}},:'shares_price'
+2025-05-02 12:20:32,182 - ERROR - Unexpected error while calculating profit:'Stock_Market_Manager' object has no attribute 'player_portfolio_json'
+2025-05-02 12:20:41,087 - ERROR - Unexpected error while calculating profit:'Stock_Market_Manager' object has no attribute 'player_portfolio_json'
+2025-05-02 12:24:44,809 - ERROR - Unexpected error while calculating profit:cannot access local variable 'current_share_price' where it is not associated with a value
+2025-05-02 12:24:49,859 - ERROR - Unexpected error while calculating profit:cannot access local variable 'current_share_price' where it is not associated with a value
+2025-05-02 12:25:46,824 - ERROR - Unexpected error while calculating profit:cannot access local variable 'current_share_price' where it is not associated with a value
+2025-05-02 12:25:51,862 - ERROR - Unexpected error while calculating profit:cannot access local variable 'current_share_price' where it is not associated with a value
+2025-05-02 12:49:21,692 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:49:26,736 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:49:50,776 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:49:55,804 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:50:08,611 - ERROR - Unexpected error while calculating profit:cannot access local variable 'total_profit' where it is not associated with a value
+2025-05-02 12:50:13,672 - ERROR - Unexpected error while calculating profit:cannot access local variable 'total_profit' where it is not associated with a value
+2025-05-02 12:50:18,727 - ERROR - Unexpected error while calculating profit:cannot access local variable 'total_profit' where it is not associated with a value
+2025-05-02 12:50:41,804 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:50:46,838 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 12:50:51,871 - ERROR - Unexpected error while calculating profit:cannot access local variable 'share_owned' where it is not associated with a value
+2025-05-02 13:01:15,858 - ERROR - Unexpected error while calculating profit:name 'total_profit' is not defined
+2025-05-02 13:01:21,064 - ERROR - Unexpected error while calculating profit:name 'total_profit' is not defined
+2025-05-02 13:03:13,430 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:03:18,489 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:03:23,559 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:03:28,658 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:04:01,815 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:24:22,104 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:24:27,143 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:24:32,175 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:24:37,203 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:24:42,244 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:24:47,284 - ERROR - Unexpected error while calculating profit:name 'total' is not defined
+2025-05-02 13:37:31,533 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:40:11,457 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:50:57,739 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:51:19,063 - ERROR - Unexpected error while calculating profit:dictionary changed size during iteration
+2025-05-02 13:55:33,246 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:55:38,289 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:55:41,187 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:57:05,278 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:57:10,317 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:57:15,178 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:57:23,753 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 13:57:26,173 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
+2025-05-02 14:04:11,325 - ERROR - Unexpected error while calculating profit:'dict' object is not callable

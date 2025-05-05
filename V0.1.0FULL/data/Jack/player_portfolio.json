@@ -1,0 +1,32 @@
+{
+    "stock_wallet": {
+        "Zein TECH": {
+            "quantity": 2,
+            "profit": 582.27
+        },
+        "Dupuis PLANTS": {
+            "quantity": 3,
+            "profit": -39.12
+        },
+        "Ivan MISC": {
+            "quantity": 1,
+            "profit": -35.57
+        },
+        "Nelson FOOD": {
+            "quantity": 1,
+            "profit": 14.38
+        },
+        "Morrison WELDING": {
+            "quantity": 2,
+            "profit": 39.3
+        },
+        "Nash MISC": {
+            "quantity": 1,
+            "profit": 17.26
+        },
+        "Dupuis FORESTRY": {
+            "quantity": 1,
+            "profit": 21.1
+        }
+    }
+}

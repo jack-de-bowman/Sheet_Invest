@@ -1,0 +1,293 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang3084{\fonttbl{\f0\fnil\fcharset0 @MS UI Gothic;}{\f1\fnil\fcharset0 Modern;}}
+{\*\generator Riched20 10.0.26100}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\ul\f0\fs56 SHEET_INVEST\ulnone\fs22\par
+MAIN MECANICS:\par
+Simple Economic Simulation:\par
+
+\pard\sl276\slmult1\fs18 SHEET_INVEST core component is it economic simulation.\par
+However for development and accessibilty reason the simulation wish to stay modest in complexity.\par
+
+\pard\sa200\sl276\slmult1\par
+LIST OF PRINCIPLES EXPLORED IN SHEET_INVEST ECONOMIC SIMULATION:\par
+Population simulation\par
+\tab -happiness/satisfaction\par
+Demands and offer of product and services.\par
+Trends(\i Later build)\par
+\i0 Division of population by economical group.\par
+Fluctuating behavior of the population towards goods and services.  \par
+Adaption behavior from companies to fit economical instability\par
+\fs28 Short exploration of principles of the economic simulation:\par
+
+\pard\sl276\slmult1\fs32 -Population-\fs18\par
+The population is the core principle behind demand and the companies behavior.\par
+\fs32 -Economic Group-\fs18\par
+The population wil find themselve as one of 5 types of consumer for each type of demands and products or services associated to concerned type of demands:\par
+\tab\ul Subminimal Consumer : 0 to 5$ a day\par
+\ulnone\tab\ul Minimal Consumer : 5 to 10$ a day\par
+\ulnone\tab\ul Average Consumer : 10 to 20$ a day\par
+\ulnone\tab\ul Above Average Consumer : 20 to 100$ a day\par
+\ulnone\tab\ul Afluent Consumer : 100 to 200$ a day\par
+\ulnone Each economic group is associated with 2 numbers. These numbers represent a range of daily spending capability.\par
+-30 day rule-\par
+This range is only representative of a daily consumer habit, it is however cumulative on a period of 30 day. Which means that\par
+\tab\ul Subminimal Consumer are able to spend 150$ on a 30 day window,\ulnone\par
+\tab\ul Minimal Consumer are able to spend 300$ on a 30 day window.\par
+\ulnone\tab\ul Average Consumer are able to spend 600$ on a 30 day window.\par
+\ulnone\tab\ul Above Average Consumer are able to spend 3000$ on a 30 day window.\par
+\ulnone\tab\ul Afluent Consumer are able to spend 6000$ on a 30 day window.\ulnone\par
+\line\fs32 -Needs-----------------------------------\fs18\par
+Needs are the driving mecanism behind consumer and companies behavior.\par
+\par
+05-05-2025 NEEDS:\par
+FOOD\par
+ENTERTAINMENT\par
+-----------------\par
+Each need have different quota for each economic group.\par
+For exemple subminimal consumer will indulge in entertainment either if it's free or if they can meet their more important need like food.\par
+In principle each group has to meet the 30 day rule, which means, 30 units of premordial need as to be available to them before they will spend elsewhere or in more quantity.\par
+However complexity arise in the fact that individual of a population has various liking and consumption habits.\par
+For exemple in a pool of a 1000 people, 100 people despite their economic group will consider that 30 units of food is the bare minimum and if they can get more they will prioritize their spendings.\par
+\par
+(\i For later build)\par
+\i0 Perceived quality preferences\par
+\par
+\fs32 -Prices-------------------------------------------\fs18\par
+Prices are distributed between products and services in a logical way. Which means, neccesity product and services will always be affordable to any economical group as a game is launched.\par
+\fs32 -Companies----------------------------------------\fs22\par
+\fs18 Companies are the core principle behind offer of product and services.\par
+Each companies will target a core group of consumer either by economical group or preferences or by both. \par
+However companies will seek profit at all or most cost, wich can cause deep fluctuation in their product and services prices and nature.\par
+\tab -PRODUCT-\par
+\tab -SERVICES-\par
+\par
+------------------------------------------------------------------------------------------------\par
+\par
+\fs32 IN DEPTH VIEW OF THE POPULATION\par
+\fs18         \par
+\tab\ul Subminimal Consumer : will be part of 20% of the population. \par
+\ulnone\tab\ul Minimal Consumer :  will be part of 10% of the population.\par
+\ulnone\tab\ul Average Consumer : will be part of 40% of the population\par
+\ulnone\tab\ul Above Average Consumer : will be part 20% of the population.\par
+\ulnone\tab\ul Afluent Consumer : will be part 10% of the population.\par
+\ulnone As discussed in the SHORT EXPLORATION OF PRINCIPLE OF THE ECONOMIC SIMULATION/Population each group can spend their montlhy associated maximum, accros the period of 30 days\par
+\par
+
+\pard\sa200\sl276\slmult1 It also means, that food and entertainment will not have the same value for each group.\par
+For exemple, entertainment will probably be a sector a subminimal or minimal consumer will prefer to consumes free of charge.\par
+However the Above Average and Affluent consumers will probably indulge in paid content and subscription.\par
+With that said, any group will be touched by price increase or change in their services.\par
+Which means companies are incentivised to have stable monetization.\par
+However, companies will try to make the most profit, and losses for them may not be the right choice. To satisfy decreasing profit some companies may invest more money in their service or production(\i production is for later builds)\i0  to offer more to big wallets or increase their range of clients.\par
+
+\pard\sl276\slmult1\fs32\par
+\par
+IN DEPTH VIEW OF DEMANDS \par
+\fs18 05-05-2025 BUILD\par
+"products":\{"food":["bread","butter","water"]\}\par
+"services":\par
+\{"entertainment" :\{\par
+\tab "digital_media":\{\par
+\tab\tab "video_hostings":\{\par
+\tab\tab\tab "categories":\{\par
+\tab\tab\tab\tab "news":["controversy","actuality"],\par
+\tab\tab\tab\tab "education":["science","programming","chemistry"],\par
+\tab\tab\tab\tab "entertainment":["vlog","humor","gaming"],\par
+\tab\tab\tab\tab "pornography":["amateur", "professional"]\},\par
+\par
+\tab "interactive_content":\{\par
+\tab\tab "gaming":\{\par
+\tab\tab\tab "categories:["online","offline"],\par
+\tab\tab\tab "subcategories"["mmo","action","sandbox"]\}\par
+"monetization":["selling","free","subscripton","ads","data_collection","paid_additional_conten]\par
+]\}\par
+
+\pard\sa200\sl276\slmult1 --\par
+ESSENTIAL PRODUCT \par
+each market_sector or need_category will need to be accessible to any group to make population HAPPY/SATISFIED.\par
+Each member of a population will have to satisfy each sector or need_category to increase satisfaction.\par
+UNDERSTANDING SERVICES :\par
+
+\pard\sl276\slmult1 SERVICES.\par
+SECTOR:\par
+Services are seperated in SECTOR distinct with each other, such as health(\i later builds)\i0  and\i  \i0 entertainment. \par
+METHOD_CATEGORY:\par
+Method_Types are utilized to seperate method of fullfilment in a more precise way.\par
+METHOD: \par
+Methods are the medium or way that a need will be satisfied.\par
+CATEGORY:\par
+Categories are explicit term that specify what the method_type and method will satisfy, however if a categorisation of a need is too broad, it can be sub-divided into SUB-CATEGORIES.\par
+THEME:\par
+Theme specifies the nature of the category or the sub-category it is associated with.\par
+It is often reffered as a preference of what a category will offer.\par
+\par
+
+\pard\sa200\sl276\slmult1\par
+\par
+\par
+NEEDS CHART \par
+
+\pard\sl276\slmult1\i Note:  Current percentages are not representative of the final build.\i0\par
+PRODUCT:\par
+\tab FOOD 100%\par
+\tab\tab WATER 100%\par
+\tab\tab BUTTER : 100%\par
+\tab\tab BREAD : 100%\par
+\par
+\tab\par
+SERVICES\par
+ENTERTAINMENT:90%\par
+\tab DIGITAL_MEDIA (100%)\par
+\tab\tab VIDEO_HOSTING (100%) \par
+\tab\tab\tab NEWS(70%) :\par
+\tab\tab\tab\tab controversy : 25%\par
+\tab\tab\tab\tab actuality : 80%\par
+\tab\tab\tab EDUCATION(50%)\par
+\tab\tab\tab\tab science : 50%\par
+\tab\tab\tab\tab programming :25%\par
+\tab\tab\tab\tab chemistry : 25%\par
+\tab\tab\tab ENTERTAINMENT(90%)\par
+\tab\tab\tab\tab vlog : 10%\par
+\tab\tab\tab\tab humor : 90%\par
+\tab\tab\tab\tab gaming 40%\par
+\tab\tab\tab PORNOGRAPHY(90%)\par
+\tab\tab\tab\tab AMATEUR(50%)\par
+\tab\tab\tab\tab PROFESSIONAL(50%)\par
+\tab\tab INTERACTIVE_CONTENT (40%):\par
+\tab\tab\tab GAMING(100%):\par
+\tab\tab\tab\tab ONLINE : 50%\par
+\tab\tab\tab\tab mmo: 25%\par
+\tab\tab\tab\tab OFFLINE : 50%\par
+\tab\tab\tab action : 75%\par
+\tab\tab\tab sandbox : 25%\par
+\tab  \par
+
+\pard\sa200\sl276\slmult1 Each sector, method_category, method, category and theme have percentages associated with them.\par
+These percentage is a distribution of how the population will either value the neccesity or the interest for the offered product or services.\par
+RULE OF THUMBS \par
+SECTOR are always valued as neccesity.\par
+METHOD_CATEGORY, METHOD, CATEGORY AND THEM will be valued as interest.\par
+The division of interest across population is a pretty stable number, however variation of around 5% are expected.\par
+SERVICES DISTINCTION:\par
+ In contrast to product distributor, services distributor have more flexible way to manage\par
+ economic uncertainty. However, it comes with disadvantage, such as profitability,for exemple a \par
+ company that rely on subscription model, that turns free-to-use and rely on ads, may lose \par
+ a significant part of their revenu and even part of their more affluent clients or even above\par
+ average clients that chose to spend more careffuly on a precise services. \par
+SPECIAL MENTION : Interactive_content, are considered services but also offer product.\par
+Wich can be detrimental to their flexibility towards economic uncertainty.\par
+\par
+\par
+\par
+\par
+\par
+
+\pard\sl276\slmult1 ------------------------------------------------------------------------------------------------\par
+\par
+
+\pard\sa200\sl276\slmult1 ------------------------------------------------------------------------------------------------\par
+\ul\fs28 DISTRIBUTION OF NEEDS INTO THE POPULATION AND THE EFFECT OF PRICE ON DEMAND AND OFFER\par
+\ulnone\fs18 Either available as products or service, all primordial need appear as sectors.\par
+SECTOR AS OF 04-05-2025:\par
+FOOD, ENTERTAINMENT.\par
+--------------------\par
+These sector are use to describe a need that can be fullfilled by diverse means.\par
+However each primordial needs are not equal.\par
+FOOD for example always win over entertainment, thus if food prices are high, entertainement companies will have to continue offering their services by being accessible to the people that will have money only to buy food or they may lose client.\par
+\par
+\ul\fs28 DIFFERENTIATION OF SERVICES FROM PRODUCTS.\ulnone\fs18\par
+\fs32 NEEDS AND CONSUMPTION:\par
+\fs24 Prices:\par
+\fs18 As discust earlier "IN DEPTH VIEW OF THE CORE PRINCIPLES/DEMANDS" there will always be a part of the population able to invest more or less, however it does not mean that price peak will be balance by type of consumer:\par
+
+\pard\sl276\slmult1 In reality the population is quite sparsely divided into different economic group.\par
+\par
+\i RULES OF THUMBS : MAX * 30 = MAX A GROUP WILL SPEND EACH MONTH,\par
+\i0\par
+
+\pard\sa200\sl276\slmult1\par
+\par
+\par
+\fs24\par
+\fs18\par
+\par
+\par
+   \par
+\ul\fs28\par
+Programming it\par
+\par
+\ulnone\fs18 Stock Market\par
+Handling selling/buying shares\par
+\par
+Market \line Handling \ul\fs28\par
+\ulnone\par
+\fs18\par
+\par
+\par
+\fs22\par
+\fs18\par
+\par
+\par
+ \fs22\par
+\par
+\f1\fs18\par
+\par
+\par
+\tab\tab\tab\fs22\par
+\par
+\par
+
+\pard\sl276\slmult1\par
+\ul GETTING INTO IT\par
+\par
+\ulnone\b Suggestion PROMPT (INSPIRATION FROM OTHER WILDS)\par
+\b0\fs16 At the start of every new game, there should be a prompt that ask the player what he want to do.\par
+"What are your intentions"\par
+- Take Over the World\par
+"Chaos is the answer, or whatever you want it to become"\par
+- Getting out of hand rich\par
+"You want cash right?"\par
+- Fixing society \par
+"Sheet City is kinda broken right now"\par
+- Being Altruistic \par
+"Some companies could use a hand"\par
+\fs22 ---------------------------------------\par
+\par
+\ul\par
+\ulnone Behavior of s\par
+\par
+\ul PLAYER INCENTIVE\par
+\ulnone title \par
+profile cards \tab\par
+\par
+\par
+
+\pard\sa200\sl276\slmult1\par
+\ul Folder Management\par
+
+\pard\sl276\slmult1\ulnone - market_data/ \par
+\fs18\tab player_market.json\par
+\tab\tab companies share price and info. \par
+\fs22 player_info.json\par
+\fs18\tab name, achievement, time played, stats \par
+\fs22 player_save_data.json:\par
+\tab '\fs18 state file'\fs22\par
+player_portfolio.json :\par
+\tab\fs18 balance and owned shares\ul\fs22\par
+
+\pard\sa200\sl276\slmult1 Launcher :\ulnone\par
+
+\pard\sl276\slmult1 Create a profile\par
+\tab Create profile folders\par
+\tab Generate random companies\par
+\par
+\par
+\par
+\par
+\ul MECANIC TO EXPLORE\ulnone\tab\par
+Upgrade system:\par
+\tab System that could able the player to add INTERESTING MECANIC to their hub.\par
+List:\par
+\tab Upgrade to unlock contract\par
+\tab  \tab\tab\par
+}
+ 
