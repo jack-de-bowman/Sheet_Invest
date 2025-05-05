@@ -41,6 +41,7 @@ class Random_Companies :
 			 "method_category":{
 				 "method_type":{
 					 "category":{
+						 # key [4]value here#
 						 "subcategory":{
 							 "theme":{}
 						 },
@@ -50,7 +51,19 @@ class Random_Companies :
 			 },
 		 },
 		}}
-		  
+		for key, value in self.offer_json.items():
+			if:
+			key[0] 
+			key = "sector",
+			key[1] 
+			key = "method_category",
+			key[2] 
+			key = "category",
+				if key[6] exist:
+				key[4] = key["subcategory"],
+				else :
+				key[4] = key["category"],
+			key= 5
 	
 	def generate_name(self):
 		random_companies_path = os.path.join(self.absolute_dir, '..','var_fetching','random_companies.json')
