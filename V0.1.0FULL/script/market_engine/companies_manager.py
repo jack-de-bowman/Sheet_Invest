@@ -10,7 +10,6 @@ class Random_Companies :
 		self.absolute_dir = os.path.dirname(os.path.abspath(__file__))
 	def generator(self):
 		companies_path = os.path.join(self.profile_dir, 'market_data','player_market.json')
-		
 		if not os.path.exists(companies_path):
 			raise FileNotFoundError(f"File not found :{companies_path}")
 		else:
@@ -29,15 +28,32 @@ class Random_Companies :
 			return companies
 			
 		random_companies = [{self.generate_name():{"shares_available": 10000,"shares_price": self.generate_price()}}
-		for _ in range(Random_Companies.min_rand_companies - amount_companies)]
-		
+		for _ in range(Random_Companies.min_rand_companies - amount_companies)]		
 		
 		companies.extend(random_companies)
 		with open(companies_path, 'w') as file:
 			json.dump({"companies":companies}, file, indent = 4)
 		return companies 
+	def generate_company_production(self):
+		default_company_production_dict: 
+		{"company_name":
+		 {"sector":{
+			 "method_category":{
+				 "method_type":{
+					 "category":{
+						 "subcategory":{
+							 ,
+				 	}
+				 }
+			 }
+		    
+		     {"subcategory":[],
+		          "theme":[]}}
+		 	}
+		 }	   
+		 }
+		  
 	
-			
 	def generate_name(self):
 		random_companies_path = os.path.join(self.absolute_dir, '..','var_fetching','random_companies.json')
 		with open(random_companies_path, 'r') as file:
