@@ -42,16 +42,14 @@ class Random_Companies :
 				 "method_type":{
 					 "category":{
 						 "subcategory":{
-							 ,
-				 	}
-				 }
-			 }
-		    
-		     {"subcategory":[],
-		          "theme":[]}}
-		 	}
-		 }	   
-		 }
+							 "theme":{}
+						 },
+							 
+				 	},
+				 },
+			 },
+		 },
+		}}
 		  
 	
 	def generate_name(self):
