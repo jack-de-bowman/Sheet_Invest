@@ -1,15 +1,17 @@
-{"entertainment" :{
-	"digital_media":{
-		"video_hostings":{
-			"categories":{
-				"news":["controversy","actuality"],
-				"education":["science","programming","chemistry"],
-				"entertainment":["vlog","humor","gaming"],
-				"pornography":["amateur", "professional"]},
+{
+"entertainment" :{"digital_media":{
+			"video_hostings":{
+				"categories":{
+					"news":["controversy","actuality"],
+					"education":["science","programming","chemistry"],
+					"entertainment":["vlog","humor","gaming"],
+					"pornography":["amateur", "professional"]},
+					}
+			"interactive_content":{
+			"gaming":{
+			{"categories":["online","offline"]},
+			"subcategories":["mmo","action","sandbox"]}}
+			}
 
-	"interactive_content":{
-		"gaming":{{"categories":["online","offline"]},
-			"subcategories":["mmo","action","sandbox"]}
-		
-
-"monetization":["selling","free","subscripton","ads","data_collection","paid_additional_content"]}
+"monetization":["paid_content","free","subscripton","ads","data_collection","paid_additional_content"]}
+}
