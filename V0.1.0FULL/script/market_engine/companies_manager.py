@@ -8,7 +8,7 @@ class Random_Companies :
 	def __init__(self, profile_dir):
 		self.profile_dir = profile_dir 
 		self.absolute_dir = os.path.dirname(os.path.abspath(__file__))
-	def generator(self):
+	def stocks_generator(self):
 		companies_path = os.path.join(self.profile_dir, 'market_data','player_market.json')
 		if not os.path.exists(companies_path):
 			raise FileNotFoundError(f"File not found :{companies_path}")
@@ -34,6 +34,11 @@ class Random_Companies :
 		with open(companies_path, 'w') as file:
 			json.dump({"companies":companies}, file, indent = 4)
 		return companies 
+    def production_generator(self)    
+        production_path = os.path.join(self.profile_dir,'market_data', 'production.json')
+        random_production_choice = random.choice(self.generate_production)
+        random_production = [{self.generate_name():{random_production_choice}
+       
     def production_json_structure(self): #Build 05-05-2025
         for key, values in self.production_json.items():
             if key == "services":
@@ -74,6 +79,9 @@ class Random_Companies :
         service_dict ={
         service_sector:{method_category:{method:{structure}}
         return product_dict, service_dict
+        
+          
+        
 	def generate_name(self):
 		random_companies_path = os.path.join(self.absolute_dir, '..','var_fetching','random_companies.json')
 		with open(random_companies_path, 'r') as file:

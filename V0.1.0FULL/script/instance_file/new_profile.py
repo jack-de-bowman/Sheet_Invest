@@ -22,7 +22,7 @@ class CreateProfile :
 	
 		return default_save_data, default_player_info
 
-	def setup_profile(self):
+	def setup_profile(self): #for new files simply integrate the correct syntax to json_create(json file creation method) anb it will done
 		
 		
 		#Create the profile directory
@@ -33,17 +33,18 @@ class CreateProfile :
 		if not os.path.exists(market_dir):
 			os.makedirs(market_dir)
 				
-		def json_create(file_path, data):
+		def json_create(file_path, data):       #Helper method 
 			with open(file_path,'w') as destination:
 				json.dump(data, destination, indent = 4)
 		
 		default_save_data, default_player_info = self.fetch_data()
 		#Create profile_data folder into profile_directory
-		json_create(os.path.join(self.profile_dir, f'{self.profilename}_save_data.json'),default_save_data)
+		
+        json_create(os.path.join(self.profile_dir, f'{self.profilename}_save_data.json'),default_save_data)
 		json_create(os.path.join(self.profile_dir, 'player_info.json'), default_player_info)
 		json_create(os.path.join(self.profile_dir, 'player_portfolio.json'),{})
 		json_create(os.path.join(market_dir, 'player_market.json'), {})
-	
+        json_create(os.path.join(market_dir, 'production.json'),{})
 				
 if __name__ == "__main__" :
 	CreateProfile()
