@@ -28,21 +28,26 @@ class Random_Companies :
 			return companies
 			
 		random_companies = [{self.generate_name():{"shares_available": 10000,"shares_price": self.generate_price()}}
-		for _ in range(Random_Companies.min_rand_companies - amount_companies)]		
+            for _ in range(Random_Companies.min_rand_companies - amount_companies)]		
 		
 		companies.extend(random_companies)
 		with open(companies_path, 'w') as file:
 			json.dump({"companies":companies}, file, indent = 4)
 		return companies 
-    def production_generator(self)    
+    def production_generator(self):    
         production_path = os.path.join(self.profile_dir,'market_data', 'production.json')
         random_production_choice = random.choice(self.generate_production)
         random_production = [{self.generate_name():{random_production_choice}
+        
        
     def production_json_structure(self): #Build 05-05-2025
+        production_file = os.path.join(self.absolute_dir,'..','var_fetching','production.json')
+        with open(production_file,'r') as file:
+            self.production_json = json.load(file)
+        
         for key, values in self.production_json.items():
             if key == "services":
-                if len(key) >= 3:
+                if len(values) >= 3:
                     sector = list(values.keys())[0]
                     method_category = list(values.keys())[1]
                     category = list(values.keys())[2]
@@ -52,23 +57,21 @@ class Random_Companies :
                     else :
                         theme = values.get(category, {})
             elif key == "products":
-                if len(key) >= 2 :
+                if len(values) >= 2 :
                     sector = list(values.keys())[0]
                     product = values.get(sector,{})
         return (sector, product, method_category, method, category, subcategory, theme)
     def generate_production(self):
-   
-        choose_random = random.choice(self.production_json_structure())
+        production_data = self.production_json_structure()
+        sector, product, method_category, method, category, subcategory, theme = production_data
+
+        production_list = list(production_data)
         
-        product_sector = choose_random["products"] 
-        service_sector = choose_random["services"]
-        product = choose_random.get(product)
-        method_category = choose_random.get(method_category)
-        method = choose_random.get(method)
-        category = choose_random.get(category)
-        subcategory = choose_random.get(subcategory)
-        theme = choose_random.get(theme)
-         
+        choose_random = random.choice(production_list)
+        
+        product_sector = production_data[0] 
+        service_sector = choose_random[1]
+        
         product_dict ={
         sector:{product:{"price": 0, "storage":0}}
         }
