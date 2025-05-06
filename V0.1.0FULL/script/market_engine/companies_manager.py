@@ -34,37 +34,46 @@ class Random_Companies :
 		with open(companies_path, 'w') as file:
 			json.dump({"companies":companies}, file, indent = 4)
 		return companies 
-	def generate_company_production(self):
-		default_company_production_dict: 
-		{"company_name":
-		 {"sector":{
-			 "method_category":{
-				 "method_type":{
-					 "category":{
-						 # key [4]value here#
-						 "subcategory":{
-							 "theme":{}
-						 },
-							 
-				 	},
-				 },
-			 },
-		 },
-		}}
-		for key, value in self.offer_json.items():
-			if:
-			key[0] 
-			key = "sector",
-			key[1] 
-			key = "method_category",
-			key[2] 
-			key = "category",
-				if key[6] exist:
-				key[4] = key["subcategory"],
-				else :
-				key[4] = key["category"],
-			key= 5
-	
+    def production_json_structure(self): #Build 05-05-2025
+        for key, values in self.production_json.items():
+            if key == "services":
+                if len(key) >= 3:
+                    sector = list(values.keys())[0]
+                    method_category = list(values.keys())[1]
+                    category = list(values.keys())[2]
+                    if len(values) == 4:
+                        subcategory = list(values.keys())[3] 
+                        theme = values.get(subcategory, {})
+                    else :
+                        theme = values.get(category, {})
+            elif key == "products":
+                if len(key) >= 2 :
+                    sector = list(values.keys())[0]
+                    product = values.get(sector,{})
+        return (sector, product, method_category, method, category, subcategory, theme)
+    def generate_production(self):
+   
+        choose_random = random.choice(self.production_json_structure())
+        
+        product_sector = choose_random["products"] 
+        service_sector = choose_random["services"]
+        product = choose_random.get(product)
+        method_category = choose_random.get(method_category)
+        method = choose_random.get(method)
+        category = choose_random.get(category)
+        subcategory = choose_random.get(subcategory)
+        theme = choose_random.get(theme)
+         
+        product_dict ={
+        sector:{product:{"price": 0, "storage":0}}
+        }
+        if not subcategory:
+            structure = {category:[theme]}
+        else :
+            structure = {category:{subcategory:[theme]}}
+        service_dict ={
+        service_sector:{method_category:{method:{structure}}
+        return product_dict, service_dict
 	def generate_name(self):
 		random_companies_path = os.path.join(self.absolute_dir, '..','var_fetching','random_companies.json')
 		with open(random_companies_path, 'r') as file:
