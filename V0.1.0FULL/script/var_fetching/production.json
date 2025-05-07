@@ -1,4 +1,5 @@
-{"products":{"food":["bread","butter","water"]},
+{
+"products":{"food":["bread","butter","water"]},
 "services":{
 		"entertainment" :{
 			"digital_media":{

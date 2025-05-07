@@ -4,8 +4,7 @@ import random
 
 
 
-
-class Random_Companies :
+class Random_Companies : #Generation class for creating and or managing new companies.
 	min_rand_companies = 100
 	def __init__(self, profile_dir):
 		self.profile_dir = profile_dir 
@@ -43,62 +42,55 @@ class Random_Companies :
 		random_production_choice = random.choice(self.generate_production())
 		print(random_production_choice)
 		random_production = [{self.generate_name():random_production_choice}]
-	def production_json_structure(self): #Build 05-05-2025
+		return random_production
+	def production_json_structure(self): #Build 07-05-2025
 		production_file = os.path.join(self.absolute_dir,'..','var_fetching','production.json')
 		with open(production_file,'r') as file:
 			self.production_json = json.load(file)
 		print(self.production_json)
 		sector, product, method_category, method, category, subcategory, theme = None, None, None, None, None, None, None
 		for key, values in self.production_json.items():
-			if isinstance(values, dict):
-				sub_keys = list(values.keys())
-			else:
-				sub_keys = values 
-			if key == "services":
-					for service_key, service_values in self.production_json.get("services",{}).items():
-						if isinstance(service_values, dict):
-							sector = list(values.keys())[0]
-							method_category = list(values.keys())[1]
-							method = list(values.keys())[2]
-							category = list(values.keys())[3]
-							if len(values) == 5:
-								subcategory = list(values.keys())[4]
-								theme = values.get(subcategory, {})
+			if key == "products":
+				for sector, items in  values.items():
+					if isinstance(items, list):
+						product = items
+					else:
+						print(f"list error in products")
+			elif key == "services":
+				for service_key, service_values in values.items():
+					if isinstance(service_values, dict):
+						keys = list(service_values.keys())
+						if len(keys) >= 4:
+							sector = keys[0]
+							method_category = keys[1]
+							method = keys[2]
+							category = keys[3]
+							if len(keys) ==5:
+								subcategory = keys[4]
+								theme = service_values.get(subcategory, {})
 							else :
-								theme = values.get(category, {})
-			elif key == "products":
-				for category, items in self.production_json.get("products",{}).items():
-						if isinstance(items, list):
-							for product in items:
-								
-								if len(values) >= 2 :
-									sector = list(values.keys())[0]
-									product = values.get(sector,{})
-			monetization_methods = self.production_json.get("monetization", [])
-			for method in monetization_methods:
-				print(f"Monetization Type: {method}")
+								theme = service_values.get(category, {})
+		monetization_methods = self.production_json.get("monetization", [])
+		for method in monetization_methods:
+			print(f"Monetization Type: {method}")
 
-		return (sector, product, method_category, method, category, subcategory, theme)
+		return sector, product, method_category, method, category, subcategory, theme
 	def generate_production(self):
 		production_data = self.production_json_structure()
 		sector, product, method_category, method, category, subcategory, theme = production_data
-
+		if isinstance(product, list):
+			product = random.choice(product) if product else "Unknown"
+		product_sector = sector if sector else "Unknown"
+		service_sector = method_category if method_category else "Unknown"
 		
-		choose_random = random.choice(list(production_data))
-		
-		product_sector = choose_random[0] 
-		service_sector = choose_random[1]
 		
 		product_dict ={
-		product_sector:{product:{"price": 0, "storage":0}}
-		}
-		if not subcategory:
-			structure = {category:[theme]}
-		else :
-			structure = {category:{subcategory:[theme]}}
+		product_sector:{product:{"price": self.generate_price(), "storage":random.randint(500,1000)}}}
+	
+		structure = {category: {subcategory:[theme] if subcategory else [theme]}}
+	
 		service_dict ={
-			service_sector:{
-				method_category:{method:{structure}}}
+			service_sector:{method_category:{method:structure}}
 			}
 		return product_dict, service_dict
 		

@@ -36,6 +36,7 @@ def loading_script (profile_dir):
 	
 	random_company_manager = Random_Companies(profile_dir)
 	companies_json = os.path.join(profile_dir, 'market_data', 'player_market.json')
+	production_json = os.path.join(profile_dir,'market_data','production.json')
 	player_portfolio_json = os.path.join(profile_dir, 'player_portfolio.json')	
 	
 	with open(player_portfolio_json,'r') as file:
@@ -52,7 +53,11 @@ def loading_script (profile_dir):
 		
 	companies_number = len(companies)
 	if companies_number < 100 :
-		companies = random_company_manager.generator()
+		companies = random_company_manager.stocks_generator()
 		with open(companies_json, 'w') as file:
 			json.dump(companies, file, indent = 4)
+			
+		production = random_company_manager.production_generator()
+		with open(production_json,'w') as file:
+			json.dump(production, file, indent=4)
 	
