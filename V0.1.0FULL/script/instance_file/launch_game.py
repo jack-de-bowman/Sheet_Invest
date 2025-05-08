@@ -31,7 +31,7 @@ def boot_game(profile):
 		logging.error(f"Game Script Error:{e.stderr}")
 		print(f"Game Script Error{e.stderr}")
 	except Exception as e:
-		print(f"error while booting {e}")
+		print(f"error while booting {e}") 
 def loading_script (profile_dir):
 	
 	random_company_manager = Random_Companies(profile_dir)
@@ -47,17 +47,28 @@ def loading_script (profile_dir):
 		with open(player_portfolio_json, 'w') as file:
 			json.dump(player_portfolio, file, indent=4)
 
-		
-	with open(companies_json, 'r') as file:
-		companies = json.load(file)
-		
-	companies_number = len(companies)
+
+	try : 
+		with open(companies_json, 'r') as file:
+			companies_data = json.load(file)
+		if not isinstance(companies_data, dict) or "companies" not in companies_data:
+			companies_data = {"companies":[]}
+	except (FileNotFoundError, json.JSONDecodeError):
+		companies_data ={"companies":[]}
+	
+	companies_number = len(companies_data["companies"])	
 	if companies_number < 100 :
-		companies = random_company_manager.stocks_generator()
+		for _ in range(100 - companies_number):
+			company_name = random_company_manager.stocks_generator()
+			company_production = random_company_manager.production_generator(company_name)
+		
+		
+		
+			companies_data["companies"].append({
+				"name": company_name,
+				"stock_data":{company_name:{"shares_available":1000, "shares_price": random_company_manager.generate_price()}},
+				"production_data"  : company_production
+				})
 		with open(companies_json, 'w') as file:
-			json.dump(companies, file, indent = 4)
-			
-		production = random_company_manager.production_generator()
-		with open(production_json,'w') as file:
-			json.dump(production, file, indent=4)
+			json.dump(companies_data, file, indent = 4)
 	

@@ -1,53 +1,66 @@
+
 import sys, os
 import json
-import random				
-
-
+import random	
+sys.path.append(os.path.join(os.path.dirname(__file__),'..','instance_file'))
+from sheet_io import read, write
 
 class Random_Companies : #Generation class for creating and or managing new companies.
 	min_rand_companies = 100
 	def __init__(self, profile_dir):
 		self.profile_dir = profile_dir 
 		self.absolute_dir = os.path.dirname(os.path.abspath(__file__))
-		self.production_generator()
-	def stocks_generator(self):
-		companies_path = os.path.join(self.profile_dir, 'market_data','player_market.json')
-		if not os.path.exists(companies_path):
-			raise FileNotFoundError(f"File not found :{companies_path}")
-		else:
-			with open(companies_path, 'r') as file:
-				try:
-					data = json.load(file)
-					if not isinstance(data, dict):
-						raise TypeError(f"Expected 'companies' to be a list but got {type(data)} instead")
-					companies = data.get("companies",[])
-					
-				except json.JSONDecodeError as e:
-					raise ValueError(f"Invalid JSON in {companies_path} :{e}")
-		amount_companies = len(companies)
-		if amount_companies >= Random_Companies.min_rand_companies:
-			return companies
+	
 		
-		
-		for _ in range(Random_Companies.min_rand_companies - amount_companies):
-			random_companies = [{self.generate_name():{"shares_available": 10000,"shares_price": self.generate_price()}}]
-			companies.extend(random_companies)
-			
-		with open(companies_path, 'w') as file:
-					json.dump({"companies":companies}, file, indent = 4)
-		return companies 
-	def production_generator(self):
-		production_path = os.path.join(self.profile_dir,'market_data', 'production.json')
-		
-		random_production_choice = random.choice(self.generate_production())
-		print(random_production_choice)
-		random_production = [{self.generate_name():random_production_choice}]
-		return random_production
-	def production_json_structure(self): #Build 07-05-2025
+		#-PATH-#
+		self.companies_path = os.path.join(self.profile_dir,'market_data','player_market.json')
+		self.production_path = os.path.join(self.profile_dir,'market_data', 'production.json')
 		production_file = os.path.join(self.absolute_dir,'..','var_fetching','production.json')
-		with open(production_file,'r') as file:
-			self.production_json = json.load(file)
-		print(self.production_json)
+		#-READ-#
+		self.player_companies_stock = read(self.companies_path)
+		self.production_json = read(production_file)
+	def check_data(self):
+		amount_companies = len(self.player_companies_stock)
+		if amount_companies < Random_Companies.min_rand_companies:
+			for _ in range(Random_Companies.min_rand_companies - amount_companies):
+				company_name = self.stocks_generator()
+				self.production_generator(company_name)
+		else:
+			print("Companies related files are full")
+	
+	
+	
+	def stocks_generator(self):
+		try:
+			with open(self.companies_path, 'r') as file:
+				data = json.load(file)
+			self.player_companies_stock = data.get("companies", [])
+		except (FileNotFoundError, json.JSONDecodeError):
+			self.player_companies_stock = []
+
+		company_name = self.generate_name()
+		random_company= {
+			"name":company_name,
+			"stock_data":{"shares_available": 10000,"shares_price": self.generate_price()}}
+		self.player_companies_stock.append(random_company)
+		
+		with open(self.companies_path, 'w') as file:
+			json.dump({"companies":self.player_companies_stock}, file, indent = 4)
+		return company_name
+	def production_generator(self, company_name):
+		product_dict, service_dict = self.generate_production()
+		random_production_choice = random.choice([product_dict, service_dict])
+		for company in self.player_companies_stock:
+			if company["name"] == company_name:
+				company["production_data"] = random_production_choice
+		with open(self.companies_path, 'w') as file:
+			json.dump({"companies": self.player_companies_stock}, file, indent=4)
+		with open(self.production_path, 'w') as file:
+			json.dump({"production": self.player_companies_stock}, file, indent=4)
+		return random_production_choice
+	
+	def production_json_structure(self): #Build 07-05-2025
+		
 		sector, product, method_category, method, category, subcategory, theme = None, None, None, None, None, None, None
 		for key, values in self.production_json.items():
 			if key == "products":
@@ -55,21 +68,20 @@ class Random_Companies : #Generation class for creating and or managing new comp
 					if isinstance(items, list):
 						product = items
 					else:
-						print(f"list error in products")
+						
+						print(f"Error: Expected a list in 'products', got {type(items)}")
+
+
 			elif key == "services":
 				for service_key, service_values in values.items():
 					if isinstance(service_values, dict):
 						keys = list(service_values.keys())
 						if len(keys) >= 4:
-							sector = keys[0]
-							method_category = keys[1]
-							method = keys[2]
-							category = keys[3]
-							if len(keys) ==5:
-								subcategory = keys[4]
-								theme = service_values.get(subcategory, {})
-							else :
-								theme = service_values.get(category, {})
+							sector, method_category, method, category = keys[:4]
+							subcategory = keys[4] if len(keys) == 5 else None
+							theme = service_values.get(subcategory or category, {})
+							if not isinstance(theme, dict):
+								theme = {}
 		monetization_methods = self.production_json.get("monetization", [])
 		for method in monetization_methods:
 			print(f"Monetization Type: {method}")
@@ -87,7 +99,7 @@ class Random_Companies : #Generation class for creating and or managing new comp
 		product_dict ={
 		product_sector:{product:{"price": self.generate_price(), "storage":random.randint(500,1000)}}}
 	
-		structure = {category: {subcategory:[theme] if subcategory else [theme]}}
+		structure = {category: {subcategory: theme if theme else {}}}
 	
 		service_dict ={
 			service_sector:{method_category:{method:structure}}

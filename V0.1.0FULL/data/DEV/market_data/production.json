@@ -1,0 +1,1663 @@
+{
+    "production": [
+        {
+            "name": "Ivan MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 49.18
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 9.67,
+                        "storage": 573
+                    }
+                }
+            }
+        },
+        {
+            "name": "Harrison FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 69.77
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Deschamps SCRAPYARD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 4.51
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Oliver FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 19.96
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Dupuis FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 7.27
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Trend PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 33.87
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 61.56,
+                        "storage": 560
+                    }
+                }
+            }
+        },
+        {
+            "name": "Craigs RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 4.25
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Wallon OILS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 32.87
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 2.06,
+                        "storage": 729
+                    }
+                }
+            }
+        },
+        {
+            "name": "Gauvreau WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 177.26
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Beaugarth FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 7.25
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 97.01,
+                        "storage": 617
+                    }
+                }
+            }
+        },
+        {
+            "name": "Magrid TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 382.11
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Olson FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 79.26
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 892.6,
+                        "storage": 853
+                    }
+                }
+            }
+        },
+        {
+            "name": "Ulson FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 28.15
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 9.5,
+                        "storage": 751
+                    }
+                }
+            }
+        },
+        {
+            "name": "Deschamps FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 48.49
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 2.23,
+                        "storage": 823
+                    }
+                }
+            }
+        },
+        {
+            "name": "Zein TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 904.53
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Farley RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 109.4
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Morrison MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 3.9
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 77.32,
+                        "storage": 567
+                    }
+                }
+            }
+        },
+        {
+            "name": "Kent WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 28.36
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Khrane WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 638.75
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 92.28,
+                        "storage": 921
+                    }
+                }
+            }
+        },
+        {
+            "name": "Paul MISC",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 50.51
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Washington FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 739.11
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 3.18,
+                        "storage": 713
+                    }
+                }
+            }
+        },
+        {
+            "name": "Philips TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 862.33
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Travis FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 1.21
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 342.59,
+                        "storage": 857
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hilbert FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 573.78
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Kent SCRAPYARD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 741.83
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 296.66,
+                        "storage": 689
+                    }
+                }
+            }
+        },
+        {
+            "name": "Victor FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 599.13
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 612.34,
+                        "storage": 813
+                    }
+                }
+            }
+        },
+        {
+            "name": "Yves MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 84.6
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 32.76,
+                        "storage": 768
+                    }
+                }
+            }
+        },
+        {
+            "name": "Craigs FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 339.66
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hilton MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 138.9
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Isidor FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 424.9
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 45.29,
+                        "storage": 603
+                    }
+                }
+            }
+        },
+        {
+            "name": "Faugarth FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 555.74
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 167.91,
+                        "storage": 909
+                    }
+                }
+            }
+        },
+        {
+            "name": "Nelson FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 2.45
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 95.23,
+                        "storage": 696
+                    }
+                }
+            }
+        },
+        {
+            "name": "Fern FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 0.29
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 8.84,
+                        "storage": 923
+                    }
+                }
+            }
+        },
+        {
+            "name": "Augarth MISC",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 326.21
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Tally WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 30.88
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Garry MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 983.3
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Larry SCRAPYARD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 182.25
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 754.44,
+                        "storage": 529
+                    }
+                }
+            }
+        },
+        {
+            "name": "Ivar TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 56.4
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Lays PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 70.67
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Craigs RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 540.4
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Larry TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 303.38
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Rickton FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 9.69
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 3.93,
+                        "storage": 826
+                    }
+                }
+            }
+        },
+        {
+            "name": "Caron OILS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 9.94
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 389.56,
+                        "storage": 682
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hilbert TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 5.06
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 305.01,
+                        "storage": 552
+                    }
+                }
+            }
+        },
+        {
+            "name": "Illary PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 957.79
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Edgard OILS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 75.7
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 6.5,
+                        "storage": 664
+                    }
+                }
+            }
+        },
+        {
+            "name": "Pilger FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 286.35
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Steven MISC",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 80.68
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 84.03,
+                        "storage": 1000
+                    }
+                }
+            }
+        },
+        {
+            "name": "Elm WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 0.79
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 54.7,
+                        "storage": 680
+                    }
+                }
+            }
+        },
+        {
+            "name": "Neil WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 74.74
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Bell FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 8.93
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 84.81,
+                        "storage": 579
+                    }
+                }
+            }
+        },
+        {
+            "name": "Ulson WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 9.11
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "France FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 168.05
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 4.47,
+                        "storage": 978
+                    }
+                }
+            }
+        },
+        {
+            "name": "Morrison TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 3.64
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 3.69,
+                        "storage": 711
+                    }
+                }
+            }
+        },
+        {
+            "name": "Nash PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 92.13
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Finland SCRAPYARD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 41.46
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Steven FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 413.8
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Sally WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 68.25
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 1.69,
+                        "storage": 647
+                    }
+                }
+            }
+        },
+        {
+            "name": "Welton OILS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 205.0
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 512.08,
+                        "storage": 939
+                    }
+                }
+            }
+        },
+        {
+            "name": "Dagherton FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 23.25
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Oliver FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 9.95
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Nelson FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 984.09
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 53.55,
+                        "storage": 550
+                    }
+                }
+            }
+        },
+        {
+            "name": "Caron TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 155.33
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Ogarth MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 304.43
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 212.71,
+                        "storage": 874
+                    }
+                }
+            }
+        },
+        {
+            "name": "Nelson WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 7.78
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Isidor PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 7.43
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Philiatreault RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 51.08
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Khrane FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 67.42
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Harris MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 177.36
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Larry TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 96.05
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Isidor PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 8.56
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Farley FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 69.65
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Oliver RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 5.47
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 39.34,
+                        "storage": 672
+                    }
+                }
+            }
+        },
+        {
+            "name": "Bell FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 444.98
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 27.52,
+                        "storage": 701
+                    }
+                }
+            }
+        },
+        {
+            "name": "Paul MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 51.52
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 48.76,
+                        "storage": 862
+                    }
+                }
+            }
+        },
+        {
+            "name": "Dean TECH",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 97.13
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Tuscon MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 3.71
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Fern WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 202.83
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 278.6,
+                        "storage": 828
+                    }
+                }
+            }
+        },
+        {
+            "name": "Letterman PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 1.51
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Mavrick RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 46.08
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 9.66,
+                        "storage": 700
+                    }
+                }
+            }
+        },
+        {
+            "name": "Rick WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 2.06
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Gregson RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 299.83
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hagerthy PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 4.76
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 30.95,
+                        "storage": 583
+                    }
+                }
+            }
+        },
+        {
+            "name": "Gilmore RIG",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 61.51
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Dean PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 7.04
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Pilger FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 71.86
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Washington WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 28.91
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 4.8,
+                        "storage": 783
+                    }
+                }
+            }
+        },
+        {
+            "name": "Adams PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 39.29
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 45.43,
+                        "storage": 741
+                    }
+                }
+            }
+        },
+        {
+            "name": "Hagerthy FINANCE",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 691.23
+            },
+            "production_data": {
+                "food": {
+                    "bread": {
+                        "price": 98.82,
+                        "storage": 516
+                    }
+                }
+            }
+        },
+        {
+            "name": "Trend SCRAPYARD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 0.34
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 93.62,
+                        "storage": 912
+                    }
+                }
+            }
+        },
+        {
+            "name": "Pilger FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 8.23
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 924.16,
+                        "storage": 515
+                    }
+                }
+            }
+        },
+        {
+            "name": "Steven FORESTRY",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 64.35
+            },
+            "production_data": {
+                "food": {
+                    "butter": {
+                        "price": 81.55,
+                        "storage": 972
+                    }
+                }
+            }
+        },
+        {
+            "name": "Gregson MISC",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 1.7
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 485.07,
+                        "storage": 892
+                    }
+                }
+            }
+        },
+        {
+            "name": "Trend WELDING",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 519.92
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 57.94,
+                        "storage": 785
+                    }
+                }
+            }
+        },
+        {
+            "name": "Finland MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 935.62
+            },
+            "production_data": {
+                "food": {
+                    "water": {
+                        "price": 648.92,
+                        "storage": 987
+                    }
+                }
+            }
+        },
+        {
+            "name": "Illary FOOD",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 229.7
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Zack PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 48.47
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Oswald PLANTS",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 925.92
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Farley MISC",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 502.48
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "name": "Crowley MARKET",
+            "stock_data": {
+                "shares_available": 10000,
+                "shares_price": 5.67
+            },
+            "production_data": {
+                "Unknown": {
+                    "null": {
+                        "null": {
+                            "null": {
+                                "null": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
