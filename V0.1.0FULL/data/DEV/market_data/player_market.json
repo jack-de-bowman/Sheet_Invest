@@ -1,0 +1,1531 @@
+{
+    "France FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.02
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Philips FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 29.47
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 138.48,
+                    "storage": 902
+                }
+            }
+        }
+    },
+    "Harris MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 622.62
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Beaugarth SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 36.86
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 5.82,
+                    "storage": 833
+                }
+            }
+        }
+    },
+    "Mallet RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.8
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Tuscon FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 32.15
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 698.39,
+                    "storage": 801
+                }
+            }
+        }
+    },
+    "Tuscon OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.3
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Tickton SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.66
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Dean MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 40.56
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 7.5,
+                    "storage": 898
+                }
+            }
+        }
+    },
+    "Gregson WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 15.29
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 312.78,
+                    "storage": 991
+                }
+            }
+        }
+    },
+    "Price FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 60.12
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 152.23,
+                    "storage": 877
+                }
+            }
+        }
+    },
+    "Mogurn WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.5
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 0.68,
+                    "storage": 832
+                }
+            }
+        }
+    },
+    "Craigs PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 914.7
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Craigs MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.15
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 14.25,
+                    "storage": 535
+                }
+            }
+        }
+    },
+    "Zein FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 276.91
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Brian TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 980.23
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Victor PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 71.03
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 574.24,
+                    "storage": 528
+                }
+            }
+        }
+    },
+    "Nash FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 899.14
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 86.45,
+                    "storage": 874
+                }
+            }
+        }
+    },
+    "Harris FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 62.28
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 8.33,
+                    "storage": 650
+                }
+            }
+        }
+    },
+    "Hills WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.39
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 35.58,
+                    "storage": 656
+                }
+            }
+        }
+    },
+    "Mavrick SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 659.57
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 72.66,
+                    "storage": 825
+                }
+            }
+        }
+    },
+    "Oswald FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.64
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 47.13,
+                    "storage": 687
+                }
+            }
+        }
+    },
+    "Gauvreau TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 88.58
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Nash PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 37.07
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 9.49,
+                    "storage": 548
+                }
+            }
+        }
+    },
+    "Stephan RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 62.41
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Briggs FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 186.01
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 28.57,
+                    "storage": 874
+                }
+            }
+        }
+    },
+    "Travis WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 995.51
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Van Wale FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 20.9
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 8.11,
+                    "storage": 720
+                }
+            }
+        }
+    },
+    "Kloom TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.46
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 885.06,
+                    "storage": 657
+                }
+            }
+        }
+    },
+    "Nelson TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 39.97
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 972.3,
+                    "storage": 654
+                }
+            }
+        }
+    },
+    "Mells RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 36.63
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Trend PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.8
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 157.12,
+                    "storage": 757
+                }
+            }
+        }
+    },
+    "Oliver OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 77.47
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Tuscon TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 420.93
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 4.98,
+                    "storage": 958
+                }
+            }
+        }
+    },
+    "Samuel RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 1.21
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gauvreau FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.3
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Samuel WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 88.15
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 187.87,
+                    "storage": 919
+                }
+            }
+        }
+    },
+    "Olson FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 44.74
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 596.57,
+                    "storage": 800
+                }
+            }
+        }
+    },
+    "Ken RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.29
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 38.89,
+                    "storage": 649
+                }
+            }
+        }
+    },
+    "Wallon WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 432.61
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Trend MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 506.24
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 57.27,
+                    "storage": 580
+                }
+            }
+        }
+    },
+    "Brian WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.65
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 826.38,
+                    "storage": 689
+                }
+            }
+        }
+    },
+    "Kent MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 55.32
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 6.03,
+                    "storage": 649
+                }
+            }
+        }
+    },
+    "Tally FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 47.82
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Elm SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.88
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 73.56,
+                    "storage": 517
+                }
+            }
+        }
+    },
+    "Nash WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.94
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gauvreau RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 810.6
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Harrison MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 16.26
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 98.43,
+                    "storage": 687
+                }
+            }
+        }
+    },
+    "Gilmore FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 95.57
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Faugarth PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 453.51
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Garry SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 59.24
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Garry FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.0
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 876.12,
+                    "storage": 531
+                }
+            }
+        }
+    },
+    "Sullivan PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 77.09
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 0.4,
+                    "storage": 913
+                }
+            }
+        }
+    },
+    "Tally PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 48.73
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 44.05,
+                    "storage": 532
+                }
+            }
+        }
+    },
+    "Nash FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 400.04
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 4.71,
+                    "storage": 725
+                }
+            }
+        }
+    },
+    "Paul WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 376.15
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Ken SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 897.17
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 81.32,
+                    "storage": 726
+                }
+            }
+        }
+    },
+    "Pilger OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 70.32
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gilmore RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.36
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Trend FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 832.99
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 88.09,
+                    "storage": 593
+                }
+            }
+        }
+    },
+    "Oswald RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.6
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Bell RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 989.85
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 6.34,
+                    "storage": 674
+                }
+            }
+        }
+    },
+    "Ken MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.35
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gauvreau WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.91
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Dagherton RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.96
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 94.58,
+                    "storage": 850
+                }
+            }
+        }
+    },
+    "Ivan MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 11.56
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 7.78,
+                    "storage": 595
+                }
+            }
+        }
+    },
+    "Ryan FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 693.57
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crowley FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 47.9
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 8.83,
+                    "storage": 727
+                }
+            }
+        }
+    },
+    "Paul FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 365.21
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Philips MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.62
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Sunny MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 20.42
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 4.96,
+                    "storage": 966
+                }
+            }
+        }
+    },
+    "Mells TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 664.92
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Harrison MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 544.31
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 27.72,
+                    "storage": 984
+                }
+            }
+        }
+    },
+    "Tuscon SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 114.35
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 7.37,
+                    "storage": 877
+                }
+            }
+        }
+    },
+    "Kloom SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 656.32
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 575.97,
+                    "storage": 778
+                }
+            }
+        }
+    },
+    "Edgard TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.3
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 93.71,
+                    "storage": 512
+                }
+            }
+        }
+    },
+    "Finland MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 220.61
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 7.03,
+                    "storage": 759
+                }
+            }
+        }
+    },
+    "Mogurn FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 12.2
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 319.62,
+                    "storage": 881
+                }
+            }
+        }
+    },
+    "Kent FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 35.91
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Nelson SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 447.86
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Mells OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 86.88
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 46.39,
+                    "storage": 809
+                }
+            }
+        }
+    },
+    "Faugarth FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.52
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 5.86,
+                    "storage": 874
+                }
+            }
+        }
+    },
+    "Philiatreault FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 682.49
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 76.25,
+                    "storage": 565
+                }
+            }
+        }
+    },
+    "Hagerthy FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.47
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Hilbert WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.2
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 7.13,
+                    "storage": 541
+                }
+            }
+        }
+    },
+    "Ulrick FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 879.85
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 6.33,
+                    "storage": 686
+                }
+            }
+        }
+    },
+    "Augarth FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.36
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Oswald OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.01
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 8.91,
+                    "storage": 520
+                }
+            }
+        }
+    },
+    "Lays TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 802.5
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Winston FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 16.38
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 3.47,
+                    "storage": 896
+                }
+            }
+        }
+    },
+    "Tickton FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.74
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Travis FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 30.83
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Hagerthy FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.4
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Hilbert MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 979.53
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Oswald FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.32
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Ivan FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 27.79
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "null": {
+                        "null": {
+                            "null": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Olson PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 83.77
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 4.73,
+                    "storage": 620
+                }
+            }
+        }
+    },
+    "Stevenson OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.52
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 62.08,
+                    "storage": 692
+                }
+            }
+        }
+    },
+    "Ivan SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 52.04
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 481.98,
+                    "storage": 950
+                }
+            }
+        }
+    },
+    "Letterman SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 866.77
+        },
+        "production_data": {
+            "Unknown": {
+                "null": {
+                    "price": 163.65,
+                    "storage": 963
+                }
+            }
+        }
+    }
+}
