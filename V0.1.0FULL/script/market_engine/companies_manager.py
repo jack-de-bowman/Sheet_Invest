@@ -20,33 +20,53 @@ class Random_Companies : #Generation class for creating and or managing new comp
 		self.fetched_random_name = read(self.random_name_json)
 		self.player_companies = read(self.companies_path)
 		self.fetched_production = read(self.production_file)
-	def get_keys_and_values(self, dict_name, parent_key =""): #helper method to extract keys
-		keys= []
-		values = []
 
+	
+
+
+
+	def generate_production(self):
+		services = self.fetched_production["services"]
+		products = self.fetched_production["products"]
+	
 		
-		for key, value in dict_name.items():
-			full_key = f"{parent_key}.{key}"if parent_key else key
-			
-			if isinstance(value, dict):
-				nested_data = self.get_keys_and_values(value, full_key)
-				keys.extend(nested_data[0]) 
-				values.extend(nested_data[1])
-			elif isinstance(value, list):
-				keys.append(full_key)
-				values.append((full_key, value))
-			else:
-				keys.append(full_key)
-				values.append((full_key, [value]))
 		
-		return keys, values
+		random_sector 	= random.choice(services.get("sector",["sector"]))
+		sector_data = services.get(random_sector,{})
 		
-	def extract_production_data(self):
-		keys, values = self.get_keys_and_values(self.fetched_production["services"])
-		print(keys)
+		random_method	= random.choice(sector_data.get("method",["method"]))
+		method_data = sector_data.get(random_method,{})
+
+		random_category = random.choice(method_data.get("category",["category"]))
+		category_data = method_data.get(random_category,{})
+		
+		genre_data = method_data.get("genre",[])
+		theme_data = method_data.get("theme",[])
+		random_genre 	= random.choice(genre_data)
+		
+		
+		random_theme 	= random.choice(theme_data)
+	
+		service_dict = {
+		"sector":random_sector,
+		"distribution_method":{
+		random_method:{
+		"category":[random_category],
+		"genre":[random_genre],
+		"theme":[random_theme]
+		}}}
+		random_product_sector = random.choice(products.get("sector",["sector"]))
+		product_data = products.get(random_product_sector,[])
+		random_product = random.choice(product_data)
+		
+		
+		product_dict={
+		"sector":{random_product_sector:[random_product]}}
+		
+		return (product_dict,service_dict)
+		
+	
 	def create_market_data(self):
-		self.extract_production_data()
-		
 		amount_companies = len(self.player_companies)
 		company_name = self.generate_name()
 		if amount_companies < Random_Companies.min_rand_companies:
@@ -54,9 +74,10 @@ class Random_Companies : #Generation class for creating and or managing new comp
 					company_name = self.generate_name()
 					while company_name in self.player_companies:
 						company_name = self.generate_name()
-                
+						
 
 					stock_data = self.stocks_generator()	
+					product_dict, service_dict = self.generate_production()
 					random_production_choice = random.choice([product_dict, service_dict])
 					market_companies = {}
 				

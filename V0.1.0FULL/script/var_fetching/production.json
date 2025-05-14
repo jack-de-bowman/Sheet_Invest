@@ -1,20 +1,17 @@
 {
-"products":{"food":["bread","butter","water"]},
-"services":{
-		"entertainment" :{
-			"digital_media":{
-				"video_hostings":{
-					"news":["controversy","actuality"],
-					"education":["science","programming","chemistry"],
-					"entertainment":["vlog","humor","gaming"],
-					"pornography":["amateur", "professional"]},
+"products":{
+"sector":["food"],
+"food":["bread","butter","water"]},
 
-				"interactive_content":{
-				"gaming":{
-					"online":["mmo", "action","sandbox"],
-					"offline":["action","sandbox"]
-					}
-				}
-		}
-	},
-"monetization":["selling","free","subscripton","ads","data_collection","paid_additional_content"]}}
+"services":{ 
+"sector":["entertainment"],
+"entertainment":{
+"method":["gaming"],
+"gaming":{
+	"category":["online","offline","mmo"],
+	"genre":["rpg","fps","sandbox"],
+	"theme":["medieval","modern","fantasy"]
+	}
+      }
+ }
+}

@@ -1,884 +1,980 @@
 {
-    "France FOOD": {
+    "Washington WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 3.02
+            "shares_price": 6.97
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Dean FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.15
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Tickton WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 1.42
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Ivan MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 15.4
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Philips FINANCE": {
+    "Elm FOOD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 29.47
+            "shares_price": 88.47
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 138.48,
-                    "storage": 902
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Augarth WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 956.31
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Tickton OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 186.97
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Harris MARKET": {
+    "Reily SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 622.62
+            "shares_price": 737.51
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Welton FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 73.27
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Beaugarth SCRAPYARD": {
+    "Sally TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 36.86
+            "shares_price": 46.79
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 5.82,
-                    "storage": 833
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Mallet RIG": {
+    "Mells PLANTS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 8.8
+            "shares_price": 8.29
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Tuscon FORESTRY": {
+    "Dupuis FINANCE": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 32.15
+            "shares_price": 96.73
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 698.39,
-                    "storage": 801
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Tuscon OILS": {
+    "Briggs WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 2.3
+            "shares_price": 884.87
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Kent SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.26
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Van Wale TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.62
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Tickton SCRAPYARD": {
+    "Harrison WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 2.66
+            "shares_price": 766.39
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Dean MISC": {
+    "Rickton MISC": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 40.56
+            "shares_price": 3.86
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 7.5,
-                    "storage": 898
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Washington PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 1.75
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Gregson WELDING": {
+    "Willow FINANCE": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 15.29
+            "shares_price": 82.47
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 312.78,
-                    "storage": 991
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Price FORESTRY": {
+    "Farley TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 60.12
+            "shares_price": 2.38
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 152.23,
-                    "storage": 877
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Tuscon RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 729.29
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Mogurn WELDING": {
+    "Kloom MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 5.5
+            "shares_price": 170.55
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 0.68,
-                    "storage": 832
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Ulrick MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 536.77
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Craigs PLANTS": {
+    "Mells SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 914.7
+            "shares_price": 418.77
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Washington FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 27.68
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Craigs MISC": {
+    "Philiatreault MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 8.15
+            "shares_price": 27.67
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 14.25,
-                    "storage": 535
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Philips FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 248.62
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Zein FORESTRY": {
+    "Tickton FORESTRY": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 276.91
+            "shares_price": 17.11
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Brian TECH": {
+    "Ulrick SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 980.23
+            "shares_price": 918.61
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Victor PLANTS": {
+    "Finland FINANCE": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 71.03
+            "shares_price": 60.62
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 574.24,
-                    "storage": 528
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Ivan PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 93.54
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Nash FORESTRY": {
+    "Ulrick RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 899.14
+            "shares_price": 916.26
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 86.45,
-                    "storage": 874
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "France WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.71
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Harris FINANCE": {
+    "Mineault RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 62.28
+            "shares_price": 8.97
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 8.33,
-                    "storage": 650
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Hills WELDING": {
+    "Lays WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 0.39
+            "shares_price": 116.38
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 35.58,
-                    "storage": 656
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Mavrick SCRAPYARD": {
+    "Yves FORESTRY": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 659.57
+            "shares_price": 86.96
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 72.66,
-                    "storage": 825
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Mogurn MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 49.98
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Ogarth PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 878.69
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Oswald FORESTRY": {
+    "Stewart RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 8.64
+            "shares_price": 268.96
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 47.13,
-                    "storage": 687
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Ogarth RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.89
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "France FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 65.12
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Gauvreau TECH": {
+    "Craigs TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 88.58
+            "shares_price": 71.74
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Hilbert SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.63
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Nash PLANTS": {
+    "Olson OILS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 37.07
+            "shares_price": 25.14
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 9.49,
-                    "storage": 548
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Stephan RIG": {
+    "Isidor FORESTRY": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 62.41
+            "shares_price": 599.33
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Briggs FORESTRY": {
+    "Finland TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 186.01
+            "shares_price": 3.23
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 28.57,
-                    "storage": 874
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Augarth PLANTS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 24.82
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Zack WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.66
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Travis WELDING": {
+    "Stephan MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 995.51
+            "shares_price": 15.13
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Harrison TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 979.14
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Briggs MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 488.12
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Yves MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.66
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Mineault FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.22
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Isidor MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 534.29
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Van Wale FORESTRY": {
+    "Nelson OILS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 20.9
+            "shares_price": 1.09
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 8.11,
-                    "storage": 720
-                }
-            }
-        }
-    },
-    "Kloom TECH": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 3.46
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 885.06,
-                    "storage": 657
-                }
-            }
-        }
-    },
-    "Nelson TECH": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 39.97
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 972.3,
-                    "storage": 654
-                }
-            }
-        }
-    },
-    "Mells RIG": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 36.63
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Trend PLANTS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 9.8
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 157.12,
-                    "storage": 757
-                }
-            }
-        }
-    },
-    "Oliver OILS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 77.47
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Tuscon TECH": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 420.93
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 4.98,
-                    "storage": 958
-                }
-            }
-        }
-    },
-    "Samuel RIG": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 1.21
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Gauvreau FORESTRY": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 3.3
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Samuel WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 88.15
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 187.87,
-                    "storage": 919
-                }
-            }
-        }
-    },
-    "Olson FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 44.74
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 596.57,
-                    "storage": 800
-                }
-            }
-        }
-    },
-    "Ken RIG": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 3.29
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 38.89,
-                    "storage": 649
-                }
-            }
-        }
-    },
-    "Wallon WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 432.61
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Trend MARKET": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 506.24
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 57.27,
-                    "storage": 580
-                }
-            }
-        }
-    },
-    "Brian WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 5.65
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 826.38,
-                    "storage": 689
-                }
-            }
-        }
-    },
-    "Kent MISC": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 55.32
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 6.03,
-                    "storage": 649
-                }
-            }
-        }
-    },
-    "Tally FORESTRY": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 47.82
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Elm SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 4.88
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 73.56,
-                    "storage": 517
-                }
-            }
-        }
-    },
-    "Nash WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 0.94
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Gauvreau RIG": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 810.6
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
+            "sector": {
+                "food": [
+                    "butter"
+                ]
             }
         }
     },
     "Harrison MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 16.26
+            "shares_price": 66.65
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 98.43,
-                    "storage": 687
-                }
-            }
-        }
-    },
-    "Gilmore FORESTRY": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 95.57
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Faugarth PLANTS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 453.51
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Garry SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 59.24
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Garry FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 7.0
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 876.12,
-                    "storage": 531
-                }
-            }
-        }
-    },
-    "Sullivan PLANTS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 77.09
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 0.4,
-                    "storage": 913
-                }
-            }
-        }
-    },
-    "Tally PLANTS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 48.73
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 44.05,
-                    "storage": 532
-                }
-            }
-        }
-    },
-    "Nash FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 400.04
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 4.71,
-                    "storage": 725
-                }
-            }
-        }
-    },
-    "Paul WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 376.15
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Ken SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 897.17
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 81.32,
-                    "storage": 726
-                }
-            }
-        }
-    },
-    "Pilger OILS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 70.32
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
@@ -886,645 +982,761 @@
     "Gilmore RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 5.36
+            "shares_price": 102.69
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Lays OILS": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.39
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Trend FINANCE": {
+    "Wallon WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 832.99
+            "shares_price": 5.25
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 88.09,
-                    "storage": 593
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Hilbert TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 1.06
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Oswald RIG": {
+    "Nash SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 0.6
+            "shares_price": 476.29
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Bell RIG": {
+    "Neil FINANCE": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 989.85
+            "shares_price": 32.35
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 6.34,
-                    "storage": 674
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Ken MISC": {
+    "Winston PLANTS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 0.35
+            "shares_price": 2.26
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Gauvreau WELDING": {
+    "Rick WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 7.91
+            "shares_price": 262.57
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Philips MISC": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 26.93
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Deschamps RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 53.52
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Ivar RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.21
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Dagherton RIG": {
+    "Morrison OILS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 8.96
+            "shares_price": 8.12
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 94.58,
-                    "storage": 850
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Ivan MARKET": {
+    "Dupuis SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 11.56
+            "shares_price": 5.59
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 7.78,
-                    "storage": 595
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Ryan WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.5
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Sally FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 952.29
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Sunny SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 71.9
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Ken FINANCE": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 54.79
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Briggs SCRAPYARD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 15.15
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Khrane FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 693.0
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Crowley FORESTRY": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 105.73
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Ryan FORESTRY": {
+    "Dean PLANTS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 693.57
+            "shares_price": 5.5
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Crowley FINANCE": {
+    "Zack PLANTS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 47.9
+            "shares_price": 409.9
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 8.83,
-                    "storage": 727
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Brian RIG": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.37
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Paul FINANCE": {
+    "Zein SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 365.21
+            "shares_price": 293.71
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Philips MARKET": {
+    "Caron MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 3.62
+            "shares_price": 505.73
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Sunny MISC": {
+    "Uton RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 20.42
+            "shares_price": 4.1
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 4.96,
-                    "storage": 966
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Sally MARKET": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.09
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        }
+    },
+    "Kloom WELDING": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 512.23
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        }
+    },
+    "Hagerthy TECH": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.52
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Mells TECH": {
+    "Sunny TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 664.92
+            "shares_price": 6.26
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Harrison MISC": {
+    "Fern WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 544.31
+            "shares_price": 654.01
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 27.72,
-                    "storage": 984
-                }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
             }
         }
     },
-    "Tuscon SCRAPYARD": {
+    "Zein PLANTS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 114.35
+            "shares_price": 0.25
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 7.37,
-                    "storage": 877
-                }
+            "sector": {
+                "food": [
+                    "butter"
+                ]
             }
         }
     },
-    "Kloom SCRAPYARD": {
+    "Sullivan FINANCE": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 656.32
+            "shares_price": 850.35
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 575.97,
-                    "storage": 778
-                }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
             }
         }
     },
-    "Edgard TECH": {
+    "Mavrick RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 0.3
+            "shares_price": 70.73
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 93.71,
-                    "storage": 512
-                }
-            }
-        }
-    },
-    "Finland MISC": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 220.61
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 7.03,
-                    "storage": 759
-                }
-            }
-        }
-    },
-    "Mogurn FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 12.2
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 319.62,
-                    "storage": 881
-                }
-            }
-        }
-    },
-    "Kent FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 35.91
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Nelson SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 447.86
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Mells OILS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 86.88
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 46.39,
-                    "storage": 809
-                }
-            }
-        }
-    },
-    "Faugarth FORESTRY": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 0.52
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 5.86,
-                    "storage": 874
-                }
-            }
-        }
-    },
-    "Philiatreault FINANCE": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 682.49
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 76.25,
-                    "storage": 565
-                }
-            }
-        }
-    },
-    "Hagerthy FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 5.47
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Hilbert WELDING": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 8.2
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 7.13,
-                    "storage": 541
-                }
-            }
-        }
-    },
-    "Ulrick FOOD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 879.85
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 6.33,
-                    "storage": 686
-                }
-            }
-        }
-    },
-    "Augarth FINANCE": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 3.36
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
             }
         }
     },
     "Oswald OILS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 5.01
+            "shares_price": 9.3
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 8.91,
-                    "storage": 520
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Lays TECH": {
+    "Philiatreault RIG": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 802.5
+            "shares_price": 948.97
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Winston FORESTRY": {
+    "Augarth SCRAPYARD": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 16.38
+            "shares_price": 8.96
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 3.47,
-                    "storage": 896
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
                 }
             }
         }
     },
-    "Tickton FOOD": {
+    "Illary WELDING": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 6.74
+            "shares_price": 1.01
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        }
+    },
+    "Sunny FOOD": {
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 991.91
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Travis FOOD": {
+    "Bell TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 30.83
+            "shares_price": 9.41
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Hagerthy FINANCE": {
+    "Khrane TECH": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 5.4
+            "shares_price": 54.63
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
                 }
             }
         }
     },
-    "Hilbert MISC": {
+    "Winston MISC": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 979.53
+            "shares_price": 8.56
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
                 }
             }
         }
     },
-    "Oswald FINANCE": {
+    "Mineault MARKET": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 2.32
+            "shares_price": 80.82
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
+            "sector": {
+                "food": [
+                    "bread"
+                ]
             }
         }
     },
-    "Ivan FOOD": {
+    "Gilmore OILS": {
         "stock_data": {
             "shares_available": 10000,
-            "shares_price": 27.79
+            "shares_price": 30.12
         },
         "production_data": {
-            "Unknown": {
-                "null": {
-                    "null": {
-                        "null": {
-                            "null": {}
-                        }
-                    }
-                }
-            }
-        }
-    },
-    "Olson PLANTS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 83.77
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 4.73,
-                    "storage": 620
-                }
-            }
-        }
-    },
-    "Stevenson OILS": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 9.52
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 62.08,
-                    "storage": 692
-                }
-            }
-        }
-    },
-    "Ivan SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 52.04
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 481.98,
-                    "storage": 950
-                }
-            }
-        }
-    },
-    "Letterman SCRAPYARD": {
-        "stock_data": {
-            "shares_available": 10000,
-            "shares_price": 866.77
-        },
-        "production_data": {
-            "Unknown": {
-                "null": {
-                    "price": 163.65,
-                    "storage": 963
-                }
+            "sector": {
+                "food": [
+                    "butter"
+                ]
             }
         }
     }
