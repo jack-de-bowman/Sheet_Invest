@@ -3,7 +3,6 @@ def read(file_path):
 	try:
 		with open(file_path, 'r') as source:
 			data = json.load(source)
-		print(f"Reading {file_path} which contains {data}")
 		return data
 	except FileNotFoundError:
 		print(f"file not found{file_path}")

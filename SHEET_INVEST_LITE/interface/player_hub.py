@@ -99,12 +99,12 @@ class Main_Hub :
 	def update_price_labels(self):
 		if not hasattr(self, "price_labels"):
 			return
-
+		self.companies = read(self.market_json)
 		for share_name, share_data in self.companies.items():	
 			if share_name in self.price_labels:
 				current_price = f"{share_data['stock_data']['shares_price']}$"
 				self.stock_canvas.itemconfig(self.price_labels[share_name], text = current_price)
-	
+		self.root.after(5000, self.update_price_labels)
 	def create_stock_market(self):
 		if not hasattr(self, "stock_canvas") or not self.stock_canvas:
 			self.stock_canvas = tk.Canvas(self.frames["stock_market_frame"], width = 220)
@@ -182,8 +182,7 @@ class Main_Hub :
 				self.portfolio_canvas.delete(self.portfolio_labels[share_name]['profit_on_share_label'])
 				self.portfolio_labels[share_name]['sell_share_button'].destroy()		
 				del self.portfolio_labels[share_name]
-		print(f"Current self.portfolio_labels{self.portfolio_labels}")
-		
+	
 		self.frames["player_portfolio_frame"].grid_columnconfigure(1, weight =1)
 		self.portfolio_canvas.config(scrollregion = self.portfolio_canvas.bbox("all"))
 		self.portfolio_canvas.bind("<MouseWheel>", self.portfolio_on_mouse_wheel)

@@ -29,8 +29,8 @@ class Stock_Market_Manager:
 		#--#
 		self.player_info = read(self.player_info_json)
 		self.portfolio = read(self.player_portfolio_json)
-		print(f"Type of player_portfolio_json: {type(self.player_portfolio_json)}")
-		print(f"Value of player_portfolio_json: {self.player_portfolio_json}")
+		self.companies = read(self.player_stock_market_json)
+	
 
 	#helper method
 	def find_company(self, company_name):
@@ -44,9 +44,6 @@ class Stock_Market_Manager:
 			return
 		share_available = company_data["stock_data"]["shares_available"]
 		share_price = company_data["stock_data"]["shares_price"]
-		
-		print(f"Attempting to buy: {share}")
-		print(f"Company Data Found: {company_data}")
 	
 						
 		if share_available > 0:
@@ -69,12 +66,11 @@ class Stock_Market_Manager:
 	def sell_share(self, share):
 		
 			company_data = self.find_company(share)
-			print(f"attempting to sell :{share}")
-			print(f"Company data found :{company_data}")
+		
 			
 			share_amount = self.portfolio["stock_wallet"][share]["quantity"]
 			if share_amount >= 1:
-					share_price = company_data["shares_price"]
+					share_price = company_data["stock_data"]["shares_price"]
 					
 					self.portfolio["stock_wallet"][share]["quantity"] -= 1
 					self.portfolio["stock_wallet"][share]["profit"] -= share_price
@@ -89,7 +85,7 @@ class Stock_Market_Manager:
 				write(self.player_portfolio_json, self.portfolio)
 			
 			
-	
+	"""
 	def calculate_profit(self):
 		try:	
 			
@@ -104,7 +100,7 @@ class Stock_Market_Manager:
 					continue
 
 				current_price = next(
-				(company[share_name]["shares_price"] for company in self.companies if share_name in company), None)
+				(company[share_name]["stock_data"]["shares_price"] for company in self.companies if share_name in company), None)
 				if current_price is None:
 					logging.error(f"Missing stock for {share_name}")
 					continue
@@ -123,15 +119,15 @@ class Stock_Market_Manager:
 		except Exception as e:
 			logging.error(f"Unexpected error while calculating profit:{e}")
 			print(e)
-
+	"""
 	def price_fluctuation(self):
 		max_fluctuation = 10
 		min_fluctuation = -10
 		for company_name, company_data in self.companies.items():
-			share_price = company_data["stock_data"].get("shares_price")
+			share_price = company_data["stock_data"]["shares_price"]
 			random_fluctuation = round(random.uniform(min_fluctuation, max_fluctuation),2)
 			share_price = round(max(0, share_price + random_fluctuation),2)
-			company_data["shares_price"] = share_price
+			company_data["stock_data"]["shares_price"] = share_price
 		write(self.player_stock_market_json, self.companies)
 		
 	

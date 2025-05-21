@@ -17,15 +17,15 @@ class Refresh_Class:
 		self.stock_market_manager = stock_market_manager
 		self.market_manager = market_manager
 		self.main_hub = main_hub
-		
+		self.refresh_market()
 		self.refresh_stock_market()
 		self.refresh_interface()
 	def refresh_market(self):
 		self.market_manager.consumption_loop()
-		
+		self.root.after(4000, self.refresh_market)
 	def refresh_stock_market(self):
 		self.stock_market_manager.price_fluctuation()
-		self.stock_market_manager.calculate_profit()
+		#self.stock_market_manager.calculate_profit()
 		self.root.after(5000, self.refresh_stock_market)
 		
 	def refresh_interface(self):
