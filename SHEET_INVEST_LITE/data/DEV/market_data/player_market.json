@@ -1,0 +1,2834 @@
+{
+    "Deschamps PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.71
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 2.0
+    },
+    "Deschamps OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.36
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 0
+    },
+    "Farley WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.28
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 4.21
+    },
+    "Price MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 98.78
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 92.08
+    },
+    "Stevenson OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 81.86
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 87.27
+    },
+    "Ogarth MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 744.17
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 738.98
+    },
+    "Fern FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 57.59
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 63.11
+    },
+    "Stephan PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 12.87
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 20.34
+    },
+    "Kent SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.51
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 0
+    },
+    "Ivan OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 5.01
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 11.97
+    },
+    "Fern RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 505.15
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 505.57
+    },
+    "Welton FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.1
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 2.67
+    },
+    "Dupuis SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 9999,
+            "shares_price": 9.22
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 18.45
+    },
+    "Tickton MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 161.91
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 158.62
+    },
+    "Bell OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 748.46
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 756.89
+    },
+    "Wallon TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 52.4
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 58.85
+    },
+    "Mineault FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 39.79
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 36.69
+    },
+    "France OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.88
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 11.46
+    },
+    "Morrison SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.66
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 7.98
+    },
+    "Tally WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 450.5
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 452.28
+    },
+    "Travis WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 578.59
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 578.64
+    },
+    "Yves SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 52.44
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 54.88
+    },
+    "Tickton TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 61.34
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 67.5
+    },
+    "France FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 592.19
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 584.0
+    },
+    "Hilton FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.16
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 10.03
+    },
+    "Morrison MARKET": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 4.1
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 9.8
+    },
+    "Ivar SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 75.68
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 82.24
+    },
+    "Tally FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 303.72
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 306.29
+    },
+    "Dean OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 58.5
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 59.81
+    },
+    "Garry TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.12
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 3.98
+    },
+    "Sally FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 18.77
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 9.56
+    },
+    "Dupuis OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 72.28
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 62.99
+    },
+    "Adams PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 984.28
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 992.17
+    },
+    "Steven FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 520.03
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 518.43
+    },
+    "Hilbert FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.22
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 3.41
+    },
+    "Lays WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 30.73
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 36.73
+    },
+    "Nurenburg RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.71
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 3.84
+    },
+    "Steven FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 267.52
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 259.39
+    },
+    "Stephan MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 23.85
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 31.03
+    },
+    "Price RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 10.69
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 15.78
+    },
+    "Price PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 61.85
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 66.74
+    },
+    "Van Wale FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.42
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 13.1
+    },
+    "Wallon PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 8.0
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 12.73
+    },
+    "Mallet FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.09
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 3.56
+    },
+    "Morrison TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 949.69
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 946.76
+    },
+    "Larry WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 62.47
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 62.43
+    },
+    "Gauvreau TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 68.85
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 71.51
+    },
+    "Patrick MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 25.12
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 18.91
+    },
+    "Tuscon SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.6
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 6.63
+    },
+    "Harris FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.51
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 14.04
+    },
+    "Olson FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 388.22
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 394.91
+    },
+    "Sullivan RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 69.37
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 78.67
+    },
+    "Stephan MARKET": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.26
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 0
+    },
+    "Olson FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 47.27
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 41.5
+    },
+    "Dupuis PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.3
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 16.27
+    },
+    "Harris SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.85
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 12.02
+    },
+    "Sullivan MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 85.34
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 85.56
+    },
+    "Victor FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 212.21
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 220.35
+    },
+    "Rick RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 62.25
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 67.29
+    },
+    "Hilbert MARKET": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 574.86
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 575.87
+    },
+    "Philips WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 40.2
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 43.26
+    },
+    "Harrison FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.65
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 16.04
+    },
+    "Hilbert SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 704.97
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 697.82
+    },
+    "Elm PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 573.98
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 570.02
+    },
+    "Crowley PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 96.58
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 95.33
+    },
+    "Winston OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 73.16
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 67.84
+    },
+    "Finland FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.18
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 10.4
+    },
+    "Rick TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.9
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 1.64
+    },
+    "Gregson FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 768.86
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 764.26
+    },
+    "Dean PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 87.15
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 83.75
+    },
+    "Garry OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.01
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 0
+    },
+    "Neil WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 54.33
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 60.57
+    },
+    "Gregson FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.13
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 12.78
+    },
+    "Welton PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 21.33
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 30.07
+    },
+    "Finland FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.85
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 14.87
+    },
+    "Finland OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 371.93
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 367.3
+    },
+    "Dagherton FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 657.13
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 651.96
+    },
+    "Hagerthy PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 98.86
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 104.09
+    },
+    "Nelson FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.2
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 4.44
+    },
+    "Illary PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 17.53
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 22.89
+    },
+    "Briggs MARKET": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.04
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 0
+    },
+    "Yves WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.49
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 5.66
+    },
+    "Harrison RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 410.12
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "fps"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 414.41
+    },
+    "Ulrick PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.52
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 7.45
+    },
+    "Harris TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.4
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 6.57
+    },
+    "Finland WELDING": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 7.78
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 17.03
+    },
+    "Tally TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 97.85
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "news"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 104.36
+    },
+    "Mavrick FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 25.38
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "controversy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 25.84
+    },
+    "Van Wale FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 299.68
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 291.13
+    },
+    "Sally PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 960.03
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "modern"
+                    ]
+                }
+            }
+        },
+        "shares_price": 964.92
+    },
+    "Price SCRAPYARD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 87.6
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "butter"
+                ]
+            }
+        },
+        "shares_price": 92.54
+    },
+    "Pilger FOOD": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 2.35
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "video_hosting": {
+                    "category": [
+                        "general"
+                    ],
+                    "genre": [
+                        "humor"
+                    ],
+                    "theme": [
+                        "popular"
+                    ]
+                }
+            }
+        },
+        "shares_price": 3.22
+    },
+    "Morrison RIG": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 0.75
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 0
+    },
+    "Harrison OILS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 428.94
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "water"
+                ]
+            }
+        },
+        "shares_price": 433.53
+    },
+    "Travis FINANCE": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 3.68
+        },
+        "prices": {
+            "butter": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "online"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 0
+    },
+    "Washington FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 185.04
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 179.3
+    },
+    "Mineault TECH": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 6.25
+        },
+        "prices": {
+            "water": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "medieval"
+                    ]
+                }
+            }
+        },
+        "shares_price": 6.25
+    },
+    "Neil PLANTS": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 73.4
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "offline"
+                    ],
+                    "genre": [
+                        "sandbox"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 64.59
+    },
+    "Kent MISC": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 548.22
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": "entertainment",
+            "distribution_method": {
+                "gaming": {
+                    "category": [
+                        "mmo"
+                    ],
+                    "genre": [
+                        "rpg"
+                    ],
+                    "theme": [
+                        "fantasy"
+                    ]
+                }
+            }
+        },
+        "shares_price": 557.69
+    },
+    "Oliver FORESTRY": {
+        "balance": 0,
+        "reputation": {
+            "quality": 0,
+            "perceived_quality": 0
+        },
+        "stock_data": {
+            "shares_available": 10000,
+            "shares_price": 9.81
+        },
+        "prices": {
+            "bread": {
+                "price": 10
+            }
+        },
+        "production_data": {
+            "sector": {
+                "food": [
+                    "bread"
+                ]
+            }
+        },
+        "shares_price": 8.14
+    }
+}

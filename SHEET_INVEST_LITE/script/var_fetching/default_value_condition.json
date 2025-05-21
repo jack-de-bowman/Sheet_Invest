@@ -1,0 +1,9 @@
+{
+"default_player_values":{
+"wallet":{
+"balance" : 100000}
+},
+"default_major_companies_values" :{
+"share_available":{"default": 10000},
+"random_price_fluctuation" :{"min": 0, "max": 10}}
+}
