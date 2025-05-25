@@ -69,7 +69,7 @@ class Stock_Market_Manager:
 		
 			
 			share_amount = self.portfolio["stock_wallet"][share]["quantity"]
-			if share_amount >= 1:
+			if share_amount > 0:
 					share_price = company_data["stock_data"]["shares_price"]
 					
 					self.portfolio["stock_wallet"][share]["quantity"] -= 1
@@ -80,12 +80,11 @@ class Stock_Market_Manager:
 					write(self.player_portfolio_json, self.portfolio)
 					write(self.player_info_json, self.player_info)
 
-			else :
+			elif share_amount == 0:
 				del self.portfolio["stock_wallet"][share]
 				write(self.player_portfolio_json, self.portfolio)
 			
 			
-	"""
 	def calculate_profit(self):
 		try:	
 			
@@ -98,14 +97,16 @@ class Stock_Market_Manager:
 				if share_amount == 0:
 					remove_share.append(share_name)
 					continue
-
-				current_price = next(
-				(company[share_name]["stock_data"]["shares_price"] for company in self.companies if share_name in company), None)
+				for company_name, company_data in self.companies.items():
+					if company_name == share_name:
+						current_price = company_data["stock_data"]["shares_price"]
+						break
 				if current_price is None:
 					logging.error(f"Missing stock for {share_name}")
 					continue
 				profit = (share_amount * current_price) - total_spent
 				total_profit += profit
+				
 				self.portfolio["stock_wallet"][share_name]["profit"] = round(profit, 2)
 		
 			for share_name in remove_share:
@@ -119,7 +120,7 @@ class Stock_Market_Manager:
 		except Exception as e:
 			logging.error(f"Unexpected error while calculating profit:{e}")
 			print(e)
-	"""
+	
 	def price_fluctuation(self):
 		max_fluctuation = 10
 		min_fluctuation = -10

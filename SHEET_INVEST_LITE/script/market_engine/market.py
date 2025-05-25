@@ -57,19 +57,30 @@ class Market_Management:
 					quantity = random.randint(10,50)
 			
 				data["reputation"]["quality"] += a_quality
-				data["reputation"]["perceived_quality"] += b_quality
-				
+				data["reputation"]["perceived_quality"] += b_quality				
+						
 				for product_name, product_data in data["prices"].items():
 					product_price = product_data["price"]	
-				
-
-
-
 				data["balance"] += quantity * product_price	
-					
+				
+						
 			write(self.companies_json,self.companies)
+			
 		except Exception as e:
 			print(e)
+			
+	def price_impact(self):
+		a_quality_roll,b_quality_roll, quantity_roll = self.consumption_loop()
+		for company, data in self.companies.items():
+			worth = data["balance"]
+			for company, data in self.companies["stock_data"].items():
+				data["shares_price"] += worth / data["shares_available"]
+				
+			
+			write(self.companies_json, self.companies)
+			
+		
+		
 		
 #total_product_value = sum(product_data["price"] for product_data in data["prices"].values())
 #data["balance"] += quantity * total_product_value				

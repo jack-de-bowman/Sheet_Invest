@@ -65,6 +65,7 @@ class Main_Hub :
 		"stock_market_frame":{"parent":self.main_frame, "row":2, "column" : 1}, 
 		"player_portfolio_frame":{"parent":self.main_frame, "row" : 2, "column" :2, "sticky": 'n'},
 		"player_info_frame":{"parent":self.main_frame,"row":1, "column":0},
+		"news_frame":{"parent":self.main_frame,"row":3,"column":0},
 		}
 		
 		
@@ -80,7 +81,23 @@ class Main_Hub :
 			frame.grid(**grid_options)
 			created_frames[frame_name] = frame
 		return created_frames 
-	
+		
+	def news_frame(self, percent_change):
+		if not hasattr(self, "news_canvas") or not self.news_canvas:
+			self.news_canvas = tk.Canvas(self.frames["news_frame"], width = 200)
+			self.news_canvas.grid()
+		if hasattr(self, "percent_labels"):
+			for label in self.percent_labels:
+				label.destroy()
+		self.news_canvas.delete("all")
+		self.news_canvas.update()
+		self.percent_change = percent_change
+		self.percent_labels = []
+		
+		for company, percent in self.percent_change.items():
+			percent_change_label = tk.Label(self.news_canvas, text = f"{company}{round(percent,2)}")
+			percent_change_label.grid()
+			self.percent_labels.append(percent_change_label)
 	
 	def player_info_frame(self):
 		frame = tk.Frame(self.frames["player_info_frame"])
@@ -105,6 +122,7 @@ class Main_Hub :
 				current_price = f"{share_data['stock_data']['shares_price']}$"
 				self.stock_canvas.itemconfig(self.price_labels[share_name], text = current_price)
 		self.root.after(5000, self.update_price_labels)
+	
 	def create_stock_market(self):
 		if not hasattr(self, "stock_canvas") or not self.stock_canvas:
 			self.stock_canvas = tk.Canvas(self.frames["stock_market_frame"], width = 220)
@@ -176,7 +194,7 @@ class Main_Hub :
 				
 		existing_shares = set(portfolio["stock_wallet"].keys())
 		for share_name in list(self.portfolio_labels.keys()):
-			if share_name not in existing_shares:
+			if share_name not in existing_shares or 'quantity' == 0:
 				self.portfolio_canvas.delete(self.portfolio_labels[share_name]['share_name_label'])
 				self.portfolio_canvas.delete(self.portfolio_labels[share_name]['share_owned_amount_label'])
 				self.portfolio_canvas.delete(self.portfolio_labels[share_name]['profit_on_share_label'])
@@ -186,7 +204,9 @@ class Main_Hub :
 		self.frames["player_portfolio_frame"].grid_columnconfigure(1, weight =1)
 		self.portfolio_canvas.config(scrollregion = self.portfolio_canvas.bbox("all"))
 		self.portfolio_canvas.bind("<MouseWheel>", self.portfolio_on_mouse_wheel)
-
+	
+		
+		
 
 	
 		

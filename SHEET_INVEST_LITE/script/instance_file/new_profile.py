@@ -44,6 +44,8 @@ class CreateProfile :
 		json_create(os.path.join(self.profile_dir, 'player_info.json'), default_player_info)
 		json_create(os.path.join(self.profile_dir, 'player_portfolio.json'), player_portfolio)
 		json_create(os.path.join(market_dir, 'player_market.json'), {})
+		json_create(os.path.join(market_dir, 'price_index.json'), {})
+
 				
 if __name__ == "__main__" :
 	CreateProfile()

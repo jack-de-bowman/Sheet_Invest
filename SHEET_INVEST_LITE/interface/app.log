@@ -1144,3 +1144,13 @@
 2025-05-02 13:57:26,173 - ERROR - Unexpected error while calculating profit:name 'remove_share' is not defined
 2025-05-02 14:04:11,325 - ERROR - Unexpected error while calculating profit:'dict' object is not callable
 2025-05-20 14:26:09,672 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:56:19,053 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:56:24,075 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:57:24,424 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:57:29,432 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:59:23,516 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 10:59:28,527 - ERROR - Unexpected error while calculating profit:string indices must be integers, not 'str'
+2025-05-22 11:00:25,007 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-22 11:00:30,014 - ERROR - Unexpected error while calculating profit:list indices must be integers or slices, not str
+2025-05-22 11:00:46,836 - ERROR - Key error while calculating profit for Farley FOOD,:'stock_data'
+2025-05-22 11:00:51,847 - ERROR - Key error while calculating profit for Farley FOOD,:'stock_data'

@@ -10,28 +10,38 @@ from companies_manager import Random_Companies
 from market import Market_Management
 from stock_market_manager import Stock_Market_Manager
 from player_hub import Main_Hub 
-
+from news_manager import Stock_Price_News
 class Refresh_Class:
-	def __init__(self, stock_market_manager,market_manager, main_hub, root):
+	def __init__(self, stock_news, stock_market_manager,market_manager, main_hub, root):
 		self.root = root
+		self.stock_news = stock_news
 		self.stock_market_manager = stock_market_manager
 		self.market_manager = market_manager
 		self.main_hub = main_hub
+		self.refresh_news()
 		self.refresh_market()
 		self.refresh_stock_market()
 		self.refresh_interface()
+	
+	def refresh_news(self):
+		self.stock_news.create_price_index()
+		
+		
+		self.root.after(2000, self.refresh_news)
 	def refresh_market(self):
 		self.market_manager.consumption_loop()
 		self.root.after(4000, self.refresh_market)
 	def refresh_stock_market(self):
 		self.stock_market_manager.price_fluctuation()
-		#self.stock_market_manager.calculate_profit()
+		self.stock_market_manager.calculate_profit()
 		self.root.after(5000, self.refresh_stock_market)
 		
 	def refresh_interface(self):
 		self.main_hub.update_price_labels()
 		self.main_hub.player_portfolio()
-		self.root.after(5000, self.refresh_interface)
+		percent_change = self.stock_news.calculate_index() 
+		self.main_hub.news_frame(percent_change)
+		self.root.after(5050, self.refresh_interface)
 
 
 def main():
@@ -91,8 +101,9 @@ def main():
 		
 		companies_manager = Random_Companies(profile_dir)
 		market_manager = Market_Management(profile_dir)
+		stock_news = Stock_Price_News(profile_dir)
 		main_hub = Main_Hub(root, profile_dir, player_data, stock_market_manager)
-		refresh_loop = Refresh_Class(stock_market_manager,market_manager, main_hub, root)
+		refresh_loop = Refresh_Class(stock_news,stock_market_manager,market_manager, main_hub, root)
 		root.mainloop()	
 		#--#
 	except Exception as e:
